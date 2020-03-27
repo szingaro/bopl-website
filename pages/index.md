@@ -1,6 +1,6 @@
 ---
 layout: home
-title: Bologna Federated Conference on Programming Languages
+title: 2020 Bologna Federated Conference on Programming Languages
 permalink: /
 section: home
 
