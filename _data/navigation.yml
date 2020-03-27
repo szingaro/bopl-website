@@ -2,9 +2,13 @@
 
 - text: Home
   url: /
-- text: About
-  url: /about
+- text: Events
+  url: /events
+- text: Attending
+  url: /attending
+- text: Program
+  url: /program
+- text: Organization
+  url: /organization
 - text: Contact
-  url: /contact
-- text: Blog
-  url: /blog
+  url: contact
