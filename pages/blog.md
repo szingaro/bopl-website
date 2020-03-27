@@ -1,4 +1,5 @@
 ---
+published: false
 layout: blog
 title: The Blog
 permalink: /blog
