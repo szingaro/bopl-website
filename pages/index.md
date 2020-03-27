@@ -1,6 +1,6 @@
 ---
 layout: home
-title: 
+title: Bologna Federated Conference on Programming Languages
 permalink: /
 section: home
 
