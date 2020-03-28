@@ -17,7 +17,7 @@ section: events
 
 ---
 
-#### Program
+### Program
 
 | **Monday 7th** | **Tuesday 8th** | **Wednesday 9th** | **Thursday 10th** |
 |:----------:|:----------:|:-------------:|:-------------:|
