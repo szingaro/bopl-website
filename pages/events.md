@@ -15,9 +15,11 @@ section: events
 | **PPDP 2020** | [22nd International Symposium on Principles and Practice of Declarative Programming ](http://www.cse.chalmers.se/~abela/ppdp20/) |
 | **Microservices 2020** | [International Conference on Microservices 2020](https://www.conf-micro.services/2020/) |
 
+---
+
 #### Program
 
-| Monday 7th | Tuesday 8th| Wednesday 9th | Thursday 10th |
+| **Monday 7th** | **Tuesday 8th** | **Wednesday 9th** | **Thursday 10th** |
 |:----------:|:----------:|:-------------:|:-------------:|
 | [LOPSTR](https://nms.kcl.ac.uk/maribel.fernandez/LOPSTR2020/) | [LOPSTR](https://nms.kcl.ac.uk/maribel.fernandez/LOPSTR2020/) | [LOPSTR](https://nms.kcl.ac.uk/maribel.fernandez/LOPSTR2020/) | |
 | [WFLP](http://helm.cs.unibo.it/wflp2020/) | | | |
