@@ -1,31 +1,30 @@
 <header>
-
   <h1>
-    <a href="{{ "/" | relative_url }}">{{ site.title | escape }}</a>
+    <a class="text-decoration-none" href="{{ "/" | relative_url }}">{{ site.title | escape }}</a>
   </h1>
-
   <nav>
     {% include navigation.html navigation=site.data.navigation %}
   </nav>
-  
 </header>
 
-<div class="carousel slide p-0 m-0" data-ride="carousel" style="height: 450px; background-color: #1d2534;">
-  <div class="carousel-inner h-100">
-    <div class="carousel-item active">
-      <img class="d-block img-fluid" src="https://source.unsplash.com/9ndxwqoZNj4/1080x640">
-    </div>
-    <div class="carousel-item">
-      <img class="d-block img-fluid" src="https://source.unsplash.com/vXpcpTl2Tt4/1080x640">
-    </div>
-    <div class="carousel-item">
-      <img class="d-block img-fluid" src="https://source.unsplash.com/EdpbTj3Br-Y/1080x640">
-    </div>
-    <div class="carousel-item">
-      <img class="d-block img-fluid" src="https://source.unsplash.com/Vwd-zcKsHLg/1080x640">
-    </div>
-    <div class="carousel-item">
-      <img class="d-block img-fluid" src="https://source.unsplash.com/K_4rohqsmR0/1080x640">
+<div class="jumbotron p-0 m-0 bg-dark">
+  <div class="carousel slide" data-ride="carousel">
+    <div class="carousel-inner">
+      <div class="carousel-item active">
+        <img class="d-block img-fluid" src="https://source.unsplash.com/9ndxwqoZNj4/1080x320">
+      </div>
+      <div class="carousel-item">
+        <img class="d-block img-fluid" src="https://source.unsplash.com/vXpcpTl2Tt4/1080x450">
+      </div>
+      <div class="carousel-item">
+        <img class="d-block img-fluid" src="https://source.unsplash.com/EdpbTj3Br-Y/1080x450">
+      </div>
+      <div class="carousel-item">
+        <img class="d-block img-fluid" src="https://source.unsplash.com/Vwd-zcKsHLg/1080x450">
+      </div>
+      <div class="carousel-item">
+        <img class="d-block img-fluid" src="https://source.unsplash.com/K_4rohqsmR0/1080x450">
+      </div>
     </div>
   </div>
 </div>

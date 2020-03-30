@@ -1,5 +1,7 @@
 # specify main menu items here
 
+- text: Home
+  url: /
 - text: Events
   url: /events
 - text: Attending
