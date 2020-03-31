@@ -3,12 +3,6 @@ layout: page
 title: Bologna Federated Conference on Programming Languages
 permalink: /
 section: home
-intro_paragraph: >-
-  <span class="glyphicon glyphicon-info-sign"></span> We are continuously monitoring 
-  the COVID-19 situation both from local authorities and the World Health Organization. 
-  If necessary, alternative solutions, such as postponement or remote presentations 
-  will be looked into and identified. More info will be provided in the next weeks 
-  (before middle April).
 
 ---
 
