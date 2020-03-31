@@ -10,6 +10,6 @@ intro_paragraph: >-
 ---
 ### Organizing Committee
 
-* Publicity Chair
-* Financial Chair
-* Web Masters
+<!-- * Financial Chair: Saverio Giallorenzo
+* Publicity Chair: Stefano Pio Zingaro
+* Web Masters: Andrea Melis -->
