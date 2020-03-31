@@ -4,12 +4,11 @@ title: Contact
 permalink: /contact
 section: contact
 intro_paragraph: >-
-  We are continuously monitoring the COVID-19 situation from local authorities
-  and the World Health Organization. If necessary, alternative solutions, such
-  as postponement, remote presentations, etc will be looked into and identified.
-
+  <span class="glyphicon glyphicon-info-sign"></span> We are continuously
+  monitoring the COVID-19 situation from local authorities and the World Health
+  Organization. If necessary, alternative solutions, such as postponement,
+  remote presentations, etc will be looked into and identified.
 ---
-
 **Send us a message**
 
 By submitting the form contained in this page, you consent to let the organisation collect and store the provided data. 
