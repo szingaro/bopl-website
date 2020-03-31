@@ -72,7 +72,7 @@ kramdown:
 # The following items will not be processed.
 exclude:
   - README.md
-  - LICENSE.txt
+  - LICENSE
   - netlify.toml
   - feed.xml
   - Gemfile
