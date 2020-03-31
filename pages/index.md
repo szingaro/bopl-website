@@ -4,11 +4,14 @@ title: Bologna Federated Conference on Programming Languages
 permalink: /
 section: home
 intro_paragraph: >-
-  We are continuously monitoring the COVID-19 situation from local authorities
-  and the World Health Organization. If necessary, alternative solutions, such
-  as postponement, remote presentations, etc will be looked into and identified.
+  <span class="glyphicon glyphicon-info-sign"></span> We are continuously monitoring 
+  the COVID-19 situation both from local authorities and the World Health Organization. 
+  If necessary, alternative solutions, such as postponement or remote presentations 
+  will be looked into and identified. More info will be provided in the next weeks 
+  (before middle April).
 
 ---
+
 The Bologna Federated Conference on Programming Languages brings together the following top level international conferences related to programming languages, and software architectures.
 
 * [30th International Symposium on Logic-Based Program Synthesis and Transformation](https://nms.kcl.ac.uk/maribel.fernandez/LOPSTR2020/)
