@@ -1,0 +1,30 @@
+# specify main slider items here
+
+# - text: >
+#     <div class="h3">Bologna Federated Conference on Programming Languages 2020</div>
+#     <p>From the 7th to the 9th of September in Bologna, Italy</p>
+#   url: /assets/images/slide01.jpg
+- text: >
+    <div class="h3">Bologna Federated Conference on Programming Languages 2020</div>
+    <p>From the 7th to the 9th of September in Bologna, Italy</p>
+  url: /assets/images/slide02.jpg
+# - text: >
+#     <div class="h3">Bologna Federated Conference on Programming Languages 2020</div>
+#     <p>From the 7th to the 9th of September in Bologna, Italy</p>
+#   url: /assets/images/slide03.jpg
+- text: >
+    <div class="h3">Bologna Federated Conference on Programming Languages 2020</div>
+    <p>From the 7th to the 9th of September in Bologna, Italy</p>
+  url: /assets/images/slide04.jpg
+# - text: >
+#     <div class="h3">Bologna Federated Conference on Programming Languages 2020</div>
+#     <p>From the 7th to the 9th of September in Bologna, Italy</p>
+#   url: /assets/images/slide05.jpg
+- text: >
+    <div class="h3">Bologna Federated Conference on Programming Languages 2020</div>
+    <p>From the 7th to the 9th of September in Bologna, Italy</p>
+  url: /assets/images/slide06.jpg
+- text: >
+    <div class="h3">Bologna Federated Conference on Programming Languages 2020</div>
+    <p>From the 7th to the 9th of September in Bologna, Italy</p>
+  url: /assets/images/slide07.jpg

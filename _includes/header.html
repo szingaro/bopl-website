@@ -1,53 +1,43 @@
-<header>
-  <h1>
-    <a class="text-decoration-none" href="{{ "/" | relative_url }}">{{ site.title | escape }}</a>
-  </h1>
-  <nav>
-    {% include navigation.html navigation=site.data.navigation %}
+<header style="background-color: #1d2534;">
+
+  <nav class="navbar navbar-expand-md navbar-dark px-5 py-3">
+
+    <a class="navbar-brand d-flex w-50 mb-0 mr-auto h1 font-weight-light"
+      href="{{ "/" | relative_url }}">{{ site.title | escape }}</a>
+
+    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent"
+      aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+      <span class="navbar-toggler-icon"></span>
+    </button>
+
+    <div class="collapse navbar-collapse w-100 mt-md-3 text-right" id="navbarSupportedContent">
+      {% include navigation.html navigation=site.data.navigation %}
+    </div>
+
   </nav>
-</header>
 
-<section id="slider">
-  <div id="home-carousel" class="carousel slide" data-ride="carousel">			
+  <div id="home-carousel" class="carousel slide vh-50 p-2" data-ride="carousel">
     <div class="carousel-inner">
-      <div class="item" style="background-image: url({{ "/assets/images/slide03.jpg" | relative_url }})">
-        <div class="carousel-caption container">
-          <div class="row">
-            <div class="col-sm-7 pull-right text-right">
-              <h1>BOPL 2020</h1>
-              <h1>
-              <p>Bologna</p>
-              <p>7-9 September 2020</p></h1>
-            </div>
-          </div>
-        </div>					
-      </div>
-      <div class="item active" style="background-image: url({{ "/assets/images/slide03.jpg" | relative_url }})">
-        <div class="carousel-caption container">
-          <div class="row">
-            <div class="col-sm-7">
-              <h1>BOPL 2020</h1>
-              <h1>
-              <p>30th International Symposium on Logic-Based Program Synthesis and Transformation</p></h1>
-            </div>
-          </div>
-        </div>					
-      </div>
-      <div class="item" style="background-image: url({{ "/assets/images/slide03.jpg" | relative_url }})">
-        <div class="carousel-caption container">
-          <div class="row">
-            <div class="col-sm-7 pull-right text-right">
-              <h1>BOPL 2020</h1>
-              <h1>
-                <p>Bologna</p>
-                <p>7-9 September 2020</p></h1>
-            </div>
-          </div>
-        </div>					
-      </div>
+      {% for item in site.data.slider %}
+      <div class="carousel-item {% if item.url contains 6 %}active{% endif %}">
+        <img class="rounded mx-auto d-block img-fluid" src="{{ item.url }}" style="max-height: 450px;">
 
-      <a class="home-carousel-left" href="#home-carousel" data-slide="prev"><i class="fa fa-angle-left"></i></a>
-      <a class="home-carousel-right" href="#home-carousel" data-slide="next"><i class="fa fa-angle-right"></i></a>
-    </div>		
-  </div> <!--/#home-carousel--> 
-</section>
+        <div class="carousel-caption d-none d-md-block p-3 mb-2 bg-primary text-white ml-auto mr-0 w-50 rounded text-right">
+          {{ item.text }}
+        </div>
+      </div>
+      {% endfor %}
+      
+      <a class="carousel-control-prev" href="#home-carousel" role="button" data-slide="prev">
+        <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+        <span class="sr-only">Previous</span>
+      </a>
+      <a class="carousel-control-next" href="#home-carousel" role="button" data-slide="next">
+        <span class="carousel-control-next-icon" aria-hidden="true"></span>
+        <span class="sr-only">Next</span>
+      </a>
+
+    </div>
+  </div>
+
+</header>
