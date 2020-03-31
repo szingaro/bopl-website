@@ -1,5 +1,5 @@
 {% if page.intro_paragraph and page.intro_paragraph != '' %}
-  <p class="intro">
+  <div class="alert alert-primary" role="alert">
     {{ page.intro_paragraph | markdownify | remove: '<p>' | remove: '</p>' }}
-  </p>
+  </div>
 {% endif %}
