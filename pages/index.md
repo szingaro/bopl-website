@@ -9,7 +9,7 @@ intro_paragraph: >-
   as postponement, remote presentations, etc will be looked into and identified.
 
 ---
-The Bologna Federated Conference on Programming Languages brings together teh following top level international conferences related to programming languages, and software architectures.
+The Bologna Federated Conference on Programming Languages brings together the following top level international conferences related to programming languages, and software architectures.
 
 * [30th International Symposium on Logic-Based Program Synthesis and Transformation](https://nms.kcl.ac.uk/maribel.fernandez/LOPSTR2020/)
 * [28th International Workshop on Functional and Logic Programming](http://helm.cs.unibo.it/wflp2020/)[](http://www.cse.chalmers.se/~abela/ppdp20/)
