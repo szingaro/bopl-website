@@ -6,8 +6,24 @@ section: organization
 
 ---
 
-TBA
+#### General Chair
 
-<!-- * Financial Chair: Saverio Giallorenzo
-* Publicity Chair: Stefano Pio Zingaro
-* Web Masters: Andrea Melis -->
+Maurizio Gabbrielli
+
+#### Financial Chair
+
+Saverio Giallorenzo
+
+#### Publicity Chair
+
+Stefano Pio Zingaro
+
+#### Local Organization Chair
+
+Roberto Amadini
+
+##### Local Organization
+
+* Francesca Del Bonifro
+* Andrea Melis
+
