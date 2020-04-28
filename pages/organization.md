@@ -18,12 +18,11 @@ Saverio Giallorenzo
 
 Stefano Pio Zingaro
 
-#### Local Organization Chair
-
-Roberto Amadini
-
 ##### Local Organization
 
-* Francesca Del Bonifro
+* Roberto Amadini
+* Davide Berardi
+* Francesca del Bonifro
 * Andrea Melis
-
+* Marco Prandini (**Chair**)
+* Gianluigi Zavattaro
