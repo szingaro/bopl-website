@@ -18,7 +18,7 @@ Saverio Giallorenzo
 
 Stefano Pio Zingaro
 
-##### Local Organization
+#### Local Organization
 
 * Roberto Amadini
 * Davide Berardi
