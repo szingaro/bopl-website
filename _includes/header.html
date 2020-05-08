@@ -1,10 +1,11 @@
-<header style="background-color: #1d2534;">
+<header class="bg-dark">
 
   <nav class="navbar navbar-expand-md navbar-dark px-5 py-3">
 
-    <a class="navbar-brand d-flex w-50 mb-0 mr-auto h1 font-weight-light"
-      href="{{ "/" | relative_url }}">{{ site.title | escape }}</a>
-
+    <a class="text-warning navbar-brand d-flex w-50 mb-0 mr-auto h1 font-weight-light" href="{{ "/" | relative_url }}">
+    {{ site.title | escape }}
+    </a>
+  
     <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent"
       aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
       <span class="navbar-toggler-icon"></span>
@@ -16,13 +17,13 @@
 
   </nav>
 
-  <div id="home-carousel" class="carousel slide vh-50 p-2" data-ride="carousel">
+  <div id="home-carousel" class="carousel slide vh-50 p-2 d-none d-md-block " data-ride="carousel">
     <div class="carousel-inner">
       {% for item in site.data.slider %}
       <div class="carousel-item {% if item.url contains 6 %}active{% endif %}">
         <img class="rounded mx-auto d-block img-fluid" src="{{ item.url }}" style="max-height: 450px;">
 
-        <div class="carousel-caption d-none d-md-block p-3 mb-2 bg-primary text-white ml-auto mr-0 w-50 rounded text-right">
+        <div class="carousel-caption p-3 mb-2 bg-dark text-white ml-auto mr-0 rounded text-right" style="width: 65%;">
           {{ item.text }}
         </div>
       </div>
