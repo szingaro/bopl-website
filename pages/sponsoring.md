@@ -20,8 +20,8 @@ Besides *programming languages*, the international community behind BOPL spans a
 ### BOPL 2020 Support tiers
 
 <div class="border row">
-<div style="background-color:#f4a460;" class="border col-6 align-middle"><a href="#become-sponsor"><h2 class="mt-2">Bronze</h2></a></div>
-<div class="border col-6 text-right"><a href="#become-sponsor">Suggested donation <h4>250€</h4></a></div>
+<div style="background-color:#f4a460;" class="tierLink-bronze border col-6 align-middle"><a href="#become-sponsor"><h2 class="mt-2">Bronze</h2></a></div>
+<div class="tierLink-bronze border col-6 text-right"><a href="#become-sponsor">Suggested donation <h4>250€</h4></a></div>
 <div class="col-12 border small">Benefits</div>
 <div class="col-12 py-3">
 				<ul>
@@ -30,8 +30,8 @@ Besides *programming languages*, the international community behind BOPL spans a
 </div>
 </div>
 <div class="mt-3 border row">
-<div style="background-color:#c0c0c0;" class="border col-6 align-middle"><a href="#become-sponsor"><h2 class="mt-2">Silver</h2></a></div>
-<div class="border col-6 text-right"><a href="#become-sponsor">Suggested donation <h4>500€</h4></a></div>
+<div style="background-color:#c0c0c0;" class="tierLink-silver border col-6 align-middle"><a href="#become-sponsor"><h2 class="mt-2">Silver</h2></a></div>
+<div class="tierLink-silver border col-6 text-right"><a href="#become-sponsor">Suggested donation <h4>500€</h4></a></div>
 <div class="col-12 border small">Benefits</div>
 <div class="col-12 py-3">
 				<ul>
@@ -41,8 +41,8 @@ Besides *programming languages*, the international community behind BOPL spans a
 </div>
 </div>
 <div class="mt-3 border row">
-<div style="background-color:#ffd700;" class="border col-6 align-middle"><a href="#become-sponsor"><h2 class="mt-2">Gold</h2></a></div>
-<div class="border col-6 text-right"><a href="#become-sponsor">Suggested donation <h4>1000€</h4></a></div>
+<div style="background-color:#ffd700;" class="tierLink-gold border col-6 align-middle"><a href="#become-sponsor"><h2 class="mt-2">Gold</h2></a></div>
+<div class="tierLink-gold border col-6 text-right"><a href="#become-sponsor">Suggested donation <h4>1000€</h4></a></div>
 <div class="col-12 border small">Benefits</div>
 <div class="col-12 py-3">
 				<ul>
@@ -92,3 +92,14 @@ You can make a donation to BOPL 2020 and become one of its sponsors by contactin
 
 
 
+<script>
+$( ".tierLink-bronze" ).click(function() {
+  $( "#bronze" ).trigger( "click" );
+});
+$( ".tierLink-silver" ).click(function() {
+  $( "#silver" ).trigger( "click" );
+});
+$( ".tierLink-gold" ).click(function() {
+		$( "#gold" ).trigger( "click" );
+});
+</script>
