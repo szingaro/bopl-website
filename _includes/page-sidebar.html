@@ -7,7 +7,7 @@
   <div class="card-header" style="background-color:#ffd700;">
     Gold Sponsors
   </div>
-  <div class="card-body">
+  <div class="card-body text-center">
 {% for sponsor in gold %}
     <a href="{{ sponsor.link }}" class="text-reset">
       <img src="assets/images/sponsors/{{ sponsor.image }}" class="img-fluid w-75" alt="">
@@ -22,10 +22,10 @@
   <div class="card-header" style="background-color:#c0c0c0;">
     Silver Sponsors
   </div>
-  <div class="card-body">
+  <div class="card-body text-center">
 {% for sponsor in silver %}
     <a href="{{ sponsor.link }}" class="text-reset">
-      <img src="assets/images/sponsors/{{ sponsor.image }}" class="img-fluid" alt="">
+      <img src="assets/images/sponsors/{{ sponsor.image }}" class="img-fluid w-75" alt="">
     </a>
 {% endfor %}
   </div>
@@ -37,10 +37,10 @@
   <div class="card-header" style="background-color:#f4a460;">
     Bronze Sponsors
   </div>
-  <div class="card-body">
+  <div class="card-body text-center">
 {% for sponsor in bronze %}
     <a href="{{ sponsor.link }}" class="text-reset">
-      <img src="assets/images/sponsors/{{ sponsor.image }}" class="img-fluid" alt="">
+      <img src="assets/images/sponsors/{{ sponsor.image }}" class="img-fluid w-75" alt="">
     </a>
 {% endfor %}
   </div>
