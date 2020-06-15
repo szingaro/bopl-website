@@ -9,4 +9,20 @@ layout: default
     {{ page.title }}
 </div>
 
-{{ content }}
+<div class="row">
+    
+    <div class="col-lg-8">
+        
+        {{ content }}
+        
+    </div>
+    
+    <div class="col-lg-4">
+        
+        {% incluse page-sidebar.html %}
+        
+    </div>
+    
+</div>
+
+
