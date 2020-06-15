@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: home
 title: Bologna Federated Conference on Programming Languages
 permalink: /
 section: home
