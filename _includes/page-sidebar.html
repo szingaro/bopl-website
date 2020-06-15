@@ -1,3 +1,7 @@
+{% assign gold = site.data.sponsors | where: "tier", "gold" %}
+{% assign silver = site.data.sponsors | where: "tier", "silver" %}
+{% assign bronze = site.data.sponsors | where: "tier", "bronze" %}
+
 {% if gold.size > 0 %}
 **Gold Sponsors**
 <div class="row">
