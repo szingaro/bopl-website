@@ -3,31 +3,37 @@
 {% assign bronze = site.data.sponsors | where: "tier", "bronze" %}
 
 {% if gold.size > 0 %}
-<h4>Gold Sponsors</h4>
-<div class="row no-gutters">
+<div class="card">
+  <div class="card-body">
+    <h5 class="card-title">Gold Sponsors</h5>
 {% for sponsor in gold %}
-  <div class="col-sm-6">
-    <a href="{{ sponsor.link }}"><img src="{{ site.url }}assets/images/sponsors/{{ sponsor.image }}" alt="gold sponsor logo"></a>
-    <a href="{{ sponsor.link }}"><small>{{ sponsor.name }}</small></a>
-  </div>
+    <img src="assets/images/sponsors/{{ sponsor.image }}" alt="gold sponsor logo">
+    <a href="{{ sponsor.link }}" class="card-link">{{ sponsor.name }}</a>
 {% endfor %}
+  </div>
 </div>
 {% endif %}
 
 {% if silver.size > 0 %}
-<hr>
-<div class="h4">Silver Sponsors</div>
+<div class="card">
+  <div class="card-body">
+    <h5 class="card-title">Silver Sponsors</h5>
 {% for sponsor in silver %}
 <a href="{{ sponsor.link }}"><img class="col-12" src="{{ site.url }}/assets/images/sponsors/{{ sponsor.image }}" alt="silver sponsor logo"></a>
 <a href="{{ sponsor.link }}"><small>{{ sponsor.name }}</small></a>
 {% endfor %}
+  </div>
+</div>
 {% endif %}
 
 {% if bronze.size > 0 %}
-<hr>
-<div class="h4">Bronze Sponsors</div>
+<div class="card">
+  <div class="card-body">
+    <h5 class="card-title">Bronze Sponsors</h5>
 {% for sponsor in bronze %}
 <a href="{{ sponsor.link }}"><img class="col-12" src="{{ site.url }}assets/images/sponsors/{{ sponsor.image }}" alt="bronze sponsor logo"></a>
 <a href="{{ sponsor.link }}"><small>{{ sponsor.name }}</small></a>
 {% endfor %}
+  </div>
+</div>
 {% endif %}
