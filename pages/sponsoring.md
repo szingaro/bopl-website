@@ -19,49 +19,7 @@ Besides **programming languages**, the international community behind BOPL spans
 
 ### BOPL 2020 Sponsors
 
-{% assign gold = site.data.sponsors | where: "tier", "gold" %}
-{% assign silver = site.data.sponsors | where: "tier", "silver" %}
-{% assign bronze = site.data.sponsors | where: "tier", "bronze" %}
-
-{% if gold.size > 0 %}
-**Gold Sponsors**
-<div class="row">
-{% for sponsor in gold %}
-<div class="col-6">
-<a href="{{ sponsor.link }}"><img class="col-12" src="{{ site.url }}/assets/images/sponsors/{{ sponsor.image }}" alt=""></a>
-<a href="{{ sponsor.link }}"><small>{{ sponsor.name }}</small></a>
-</div>
-{% endfor %}
-</div>
-{% endif %}
-
----
-
-{% if silver.size > 0 %}
-**Silver Sponsors**
-<div class="row">
-{% for sponsor in silver %}
-<div class="col-6">
-<a href="{{ sponsor.link }}"><img class="col-12" src="{{ site.url }}/assets/images/sponsors/{{ sponsor.image }}" alt=""></a>
-<a href="{{ sponsor.link }}"><small>{{ sponsor.name }}</small></a>
-</div>
-{% endfor %}
-</div>
-{% endif %}
-
----
-
-{% if bronze.size > 0 %}
-**Bronze Sponsors**
-<div class="row">
-{% for sponsor in bronze %}
-<div class="col-6">
-<a href="{{ sponsor.link }}"><img class="col-12" src="{{ site.url }}/assets/images/sponsors/{{ sponsor.image }}" alt=""></a>
-<a href="{{ sponsor.link }}"><small>{{ sponsor.name }}</small></a>
-</div>
-{% endfor %}
-</div>
-{% endif %}
+{% include page-sidebar.html %}
 
 ### BOPL 2020 Support tiers
 
