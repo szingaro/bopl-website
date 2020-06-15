@@ -9,8 +9,9 @@
   </div>
   <div class="card-body">
 {% for sponsor in gold %}
-    <img src="assets/images/sponsors/{{ sponsor.image }}" class="img-fluid" alt="gold sponsor logo">
-    <a href="{{ sponsor.link }}" class="text-reset"><small>{{ sponsor.name }}</small></a>
+    <a href="{{ sponsor.link }}" class="text-reset">
+      <img src="assets/images/sponsors/{{ sponsor.image }}" class="img-fluid" alt="">
+    </a>
 {% endfor %}
   </div>
 </div>
@@ -23,8 +24,9 @@
   </div>
   <div class="card-body">
 {% for sponsor in silver %}
-    <img src="assets/images/sponsors/{{ sponsor.image }}" class="img-fluid" alt="silver sponsor logo">
-    <a href="{{ sponsor.link }}" class="card-link">{{ sponsor.name }}</a>
+    <a href="{{ sponsor.link }}" class="text-reset">
+      <img src="assets/images/sponsors/{{ sponsor.image }}" class="img-fluid" alt="">
+    </a>
 {% endfor %}
   </div>
 </div>
@@ -37,8 +39,9 @@
   </div>
   <div class="card-body">
 {% for sponsor in bronze %}
-    <img src="assets/images/sponsors/{{ sponsor.image }}" class="img-fluid" alt="bronze sponsor logo">
-    <a href="{{ sponsor.link }}" class="card-link">{{ sponsor.name }}</a>
+    <a href="{{ sponsor.link }}" class="text-reset">
+      <img src="assets/images/sponsors/{{ sponsor.image }}" class="img-fluid" alt="">
+    </a>
 {% endfor %}
   </div>
 </div>
