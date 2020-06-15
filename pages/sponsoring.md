@@ -13,7 +13,7 @@ The Bologna Federated Conference on Programming Language (BOPL) 2020 includes fo
 - 3rd International Conference on Microservices;
 - 22nd International Symposium on Principles and Practice of Declarative Programming.
 
-Besides *programming languages*, the international community behind BOPL spans areas of computer science that include *software engineering*, *artificial intelligence*, *logics*, and *mathematics* and it brings together *200+ researchers and practitioners* to present the latest developments in their respective fields.
+Besides **programming languages**, the international community behind BOPL spans areas of computer science that include **software engineering**, **artificial intelligence**, **logics**, and **mathematics** and it brings together *200+ researchers and practitioners* to present the latest developments in their respective fields.
 
 **BOPL 2020 welcomes corporate donations** to help maintain and improve the overall experience of attending the conference. We will use money from corporate sponsors to subsidise attendance, especially for students (e.g., with prizes in dedicated sessions), and to cover the costs of the organisation and of the fees to let the contents of BOPL be open access to everyone.
 
