@@ -23,7 +23,7 @@ Besides **programming languages**, the international community behind BOPL spans
 
 ### BOPL 2020 Support tiers
 
-<div class="card tierLink-bronze">
+<div class="card tierLink-bronze mt-3">
 	<div class="card-header" style="background-color:#f4a460;">
 		<a href="#become-sponsor" class="text-reset">Bronze</a>
 	</div>
@@ -38,18 +38,15 @@ Besides **programming languages**, the international community behind BOPL spans
 	</div>
 </div>
 
-<div class="card tierLink-silver">
-	<div style="background-color:#c0c0c0;" class="tierLink-silver border col-6 align-middle">
-		<a href="#become-sponsor">
-			<h2 class="mt-2">Silver</h2>
-		</a>
+<div class="card tierLink-silver mt-2">
+	<div class="card-header" style="background-color:#c0c0c0;">
+		<a href="#become-sponsor" class="text-reset">Silver</a>
 	</div>
-	<div class="tierLink-silver border col-6 text-right">
-		<a href="#become-sponsor">Suggested donation <h4>500€</h4>
-		</a>
+	<div class="card-header">
+		<a href="#become-sponsor" class="text-reset">Suggested donation <strong>500€</strong></a>
 	</div>
-	<div class="col-12 border small">Benefits</div>
-	<div class="col-12 py-3">
+	<div class="card-body">
+		<strong>Benefits:</strong>
 		<ul>
 			<li>the benefits of the Bronze tier;</li>
 			<li>the opportunity to give a 30-minute talk at a joint session with all the attendees of the four conferences.</li>
@@ -57,17 +54,15 @@ Besides **programming languages**, the international community behind BOPL spans
 	</div>
 </div>
 
-<div class="card">
-	<div style="background-color:#ffd700;" class="tierLink-gold border col-6 align-middle">
-		<a href="#become-sponsor">
-			<h2 class="mt-2">Gold</h2>
-		</a>
+<div class="card tierLink-gold mt-2">
+	<div class="card-header" style="background-color:#ffd700;">
+		<a href="#become-sponsor" class="text-reset">Gold</a>
 	</div>
-	<div class="tierLink-gold border col-6 text-right">
-		<a href="#become-sponsor">Suggested donation <h4>1000€</h4></a>
+	<div class="card-header">
+		<a href="#become-sponsor" class="text-reset">Suggested donation <strong>1000€</strong></a>
 	</div>
-	<div class="col-12 border small">Benefits</div>
-	<div class="col-12 py-3">
+	<div class="card-body">
+		<strong>Benefits:</strong>
 		<ul>
 			<li>the benefits of the Silver tier (they include also those of the Bronze tier);</li>
 			<li>acknowledgement as a sponsor of the joint sessions of the four conferences keynote talks;</li>
