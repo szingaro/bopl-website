@@ -3,7 +3,7 @@
 {% assign bronze = site.data.sponsors | where: "tier", "bronze" %}
 
 {% if gold.size > 0 %}
-**Gold Sponsors**
+<div class="h4">Gold Sponsors</div>
 <div class="row">
 {% for sponsor in gold %}
 <div class="col-6">
@@ -14,10 +14,9 @@
 </div>
 {% endif %}
 
----
-
 {% if silver.size > 0 %}
-**Silver Sponsors**
+<hr>
+<div class="h4">Silver Sponsors</div>
 <div class="row">
 {% for sponsor in silver %}
 <div class="col-6">
@@ -28,10 +27,9 @@
 </div>
 {% endif %}
 
----
-
 {% if bronze.size > 0 %}
-**Bronze Sponsors**
+<hr>
+<div class="h4">Bronze Sponsors</div>
 <div class="row">
 {% for sponsor in bronze %}
 <div class="col-6">
