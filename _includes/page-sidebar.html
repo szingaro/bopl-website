@@ -4,10 +4,12 @@
 
 {% if gold.size > 0 %}
 <div class="card">
+  <div class="card-header">
+    Gold Sponsors
+  </div>
   <div class="card-body">
-    <h5 class="card-title">Gold Sponsors</h5>
 {% for sponsor in gold %}
-    <img src="assets/images/sponsors/{{ sponsor.image }}" alt="gold sponsor logo">
+    <img src="assets/images/sponsors/{{ sponsor.image }}" class="img-fluid" alt="gold sponsor logo">
     <a href="{{ sponsor.link }}" class="card-link">{{ sponsor.name }}</a>
 {% endfor %}
   </div>
