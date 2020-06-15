@@ -15,7 +15,53 @@ The Bologna Federated Conference on Programming Language (BOPL) 2020 includes fo
 
 Besides **programming languages**, the international community behind BOPL spans areas of computer science that include **software engineering**, **artificial intelligence**, **logics**, and **mathematics** and it brings together *200+ researchers and practitioners* to present the latest developments in their respective fields.
 
-**BOPL 2020 welcomes corporate donations** to help maintain and improve the overall experience of attending the conference. We will use money from corporate sponsors to subsidise attendance, especially for students (e.g., with prizes in dedicated sessions), and to cover the costs of the organisation and of the fees to let the contents of BOPL be open access to everyone.
+**BOPL 2020 [welcomes corporate donations](#bopl-2020-support-tiers)** to help maintain and improve the overall experience of attending the conference. We will use money from corporate sponsors to subsidise attendance, especially for students (e.g., with prizes in dedicated sessions), and to cover the costs of the organisation and of the fees to let the contents of BOPL be open access to everyone.
+
+### BOPL 2020 Sponsors
+
+{% assign gold = site.data.sponsors | where: "tier", "gold" %}
+{% assign silver = site.data.sponsors | where: "tier", "silver" %}
+{% assign bronze = site.data.sponsors | where: "tier", "bronze" %}
+
+{% if gold.size > 0 %}
+**Gold Sponsors**
+<div class="row">
+{% for sponsor in gold %}
+<div class="col-6">
+<a href="{{ sponsor.link }}"><img class="col-12" src="{{ site.url }}/assets/images/sponsors/{{ sponsor.image }}" alt=""></a>
+<a href="{{ sponsor.link }}"><small>{{ sponsor.name }}</small></a>
+</div>
+{% endfor %}
+</div>
+{% endif %}
+
+---
+
+{% if silver.size > 0 %}
+**Silver Sponsors**
+<div class="row">
+{% for sponsor in silver %}
+<div class="col-6">
+<a href="{{ sponsor.link }}"><img class="col-12" src="{{ site.url }}/assets/images/sponsors/{{ sponsor.image }}" alt=""></a>
+<a href="{{ sponsor.link }}"><small>{{ sponsor.name }}</small></a>
+</div>
+{% endfor %}
+</div>
+{% endif %}
+
+---
+
+{% if bronze.size > 0 %}
+**Bronze Sponsors**
+<div class="row">
+{% for sponsor in bronze %}
+<div class="col-6">
+<a href="{{ sponsor.link }}"><img class="col-12" src="{{ site.url }}/assets/images/sponsors/{{ sponsor.image }}" alt=""></a>
+<a href="{{ sponsor.link }}"><small>{{ sponsor.name }}</small></a>
+</div>
+{% endfor %}
+</div>
+{% endif %}
 
 ### BOPL 2020 Support tiers
 
