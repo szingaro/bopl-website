@@ -23,39 +23,61 @@ Besides **programming languages**, the international community behind BOPL spans
 
 ### BOPL 2020 Support tiers
 
-<div class="border row">
-<div style="background-color:#f4a460;" class="tierLink-bronze border col-6 align-middle"><a href="#become-sponsor"><h2 class="mt-2">Bronze</h2></a></div>
-<div class="tierLink-bronze border col-6 text-right"><a href="#become-sponsor">Suggested donation <h4>250€</h4></a></div>
-<div class="col-12 border small">Benefits</div>
-<div class="col-12 py-3">
-				<ul>
-					<li>your name and logo prominently displayed on the BOPL website.</li>
-				</ul>
+<div class="card">
+	<div style="background-color:#f4a460;" class="tierLink-bronze border col-6 align-middle">
+		<a href="#become-sponsor">
+			<h2 class="mt-2">Bronze</h2>
+		</a>
+	</div>
+	<div class="tierLink-bronze border col-6 text-right">
+		<a href="#become-sponsor">Suggested donation <h4>250€</h4>
+		</a>
+	</div>
+	<div class="col-12 border small">Benefits</div>
+	<div class="col-12 py-3">
+		<ul>
+			<li>your name and logo prominently displayed on the BOPL website.</li>
+		</ul>
+	</div>
 </div>
+
+<div class="card">
+	<div style="background-color:#c0c0c0;" class="tierLink-silver border col-6 align-middle">
+		<a href="#become-sponsor">
+			<h2 class="mt-2">Silver</h2>
+		</a>
+	</div>
+	<div class="tierLink-silver border col-6 text-right">
+		<a href="#become-sponsor">Suggested donation <h4>500€</h4>
+		</a>
+	</div>
+	<div class="col-12 border small">Benefits</div>
+	<div class="col-12 py-3">
+		<ul>
+			<li>the benefits of the Bronze tier;</li>
+			<li>the opportunity to give a 30-minute talk at a joint session with all the attendees of the four conferences.</li>
+		</ul>
+	</div>
 </div>
-<div class="mt-3 border row">
-<div style="background-color:#c0c0c0;" class="tierLink-silver border col-6 align-middle"><a href="#become-sponsor"><h2 class="mt-2">Silver</h2></a></div>
-<div class="tierLink-silver border col-6 text-right"><a href="#become-sponsor">Suggested donation <h4>500€</h4></a></div>
-<div class="col-12 border small">Benefits</div>
-<div class="col-12 py-3">
-				<ul>
-					<li>the benefits of the Bronze tier;</li>
-					<li>the opportunity to give a 30-minute talk at a joint session with all the attendees of the four conferences.</li>
-				</ul>
-</div>
-</div>
-<div class="mt-3 border row">
-<div style="background-color:#ffd700;" class="tierLink-gold border col-6 align-middle"><a href="#become-sponsor"><h2 class="mt-2">Gold</h2></a></div>
-<div class="tierLink-gold border col-6 text-right"><a href="#become-sponsor">Suggested donation <h4>1000€</h4></a></div>
-<div class="col-12 border small">Benefits</div>
-<div class="col-12 py-3">
-				<ul>
-					<li>the benefits of the Silver tier (they include also those of the Bronze tier);</li>
-					<li>acknowledgement as a sponsor of the joint sessions of the four conferences keynote talks;</li>
-					<li>your name and logo prominently displayed on the video stream at the beginning and ending of each session of all conferences (usually there are 5 or 6 sessions a day per conference);</li>
-					<li>other arrangements are possible based on your needs and interests.</li>
-				</ul>
-</div>
+
+<div class="card">
+	<div style="background-color:#ffd700;" class="tierLink-gold border col-6 align-middle">
+		<a href="#become-sponsor">
+			<h2 class="mt-2">Gold</h2>
+		</a>
+	</div>
+	<div class="tierLink-gold border col-6 text-right">
+		<a href="#become-sponsor">Suggested donation <h4>1000€</h4></a>
+	</div>
+	<div class="col-12 border small">Benefits</div>
+	<div class="col-12 py-3">
+		<ul>
+			<li>the benefits of the Silver tier (they include also those of the Bronze tier);</li>
+			<li>acknowledgement as a sponsor of the joint sessions of the four conferences keynote talks;</li>
+			<li>your name and logo prominently displayed on the video stream at the beginning and ending of each session of all conferences (usually there are 5 or 6 sessions a day per conference);</li>
+			<li>other arrangements are possible based on your needs and interests.</li>
+		</ul>
+	</div>
 </div>
 
 <h2 class="mt-5" id="become-sponsor" >Becoming a BOPL 2020 Sponsor</h2>
