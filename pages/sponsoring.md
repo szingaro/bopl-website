@@ -23,21 +23,15 @@ Besides **programming languages**, the international community behind BOPL spans
 
 ### BOPL 2020 Support tiers
 
-<div class="card tierLink-bronze" style="background-color:#f4a460;">
-	<div class="card-header">
-		<a href="#become-sponsor">
-			<h2 class="mt-2">Bronze</h2>
-		</a>
+<div class="card tierLink-bronze">
+	<div class="card-header" style="background-color:#f4a460;">
+		<a href="#become-sponsor" class="text-reset">Bronze</a>
 	</div>
 	<div class="card-header">
-		<a href="#become-sponsor">
-			Suggested donation <h4>250€</h4>
-		</a>
-	</div>
-	<div class="card-header">
-		Benefits
+		<a href="#become-sponsor" class="text-reset">Suggested donation <strong>250€</strong></a>
 	</div>
 	<div class="card-body">
+		<strong>Benefits:</strong>
 		<ul>
 			<li>your name and logo prominently displayed on the BOPL website.</li>
 		</ul>
