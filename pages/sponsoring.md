@@ -21,15 +21,21 @@ Besides **programming languages**, the international community behind BOPL spans
 
 {% include page-sidebar.html %}
 
+<div class="mt-5"></div>
+
+## Sponsoring BOPL 2020
+
 ### BOPL 2020 Support tiers
 
+BOPL welcomes corporate donations. To help donors orient on their decision, we include below a set of suggested tiers, donation quotas, and related benefits.
+
 <div class="card tierLink-bronze mt-3">
-	<div class="card-header" style="background-color:#f4a460;">
-		<a href="#become-sponsor" class="text-reset">Bronze</a>
-	</div>
-	<div class="card-header">
-		<a href="#become-sponsor" class="text-reset">Suggested donation <strong>250€</strong></a>
-	</div>
+	<a href="#become-sponsor" class="text-reset"><div class="card-header" style="background-color:#f4a460;">
+		Bronze
+	</div></a>
+	<a href="#become-sponsor" class="text-reset"><div class="card-header">
+		Suggested donation <strong>250€</strong>
+	</div></a>
 	<div class="card-body">
 		<strong>Benefits:</strong>
 		<ul>
@@ -39,12 +45,10 @@ Besides **programming languages**, the international community behind BOPL spans
 </div>
 
 <div class="card tierLink-silver mt-2">
-	<div class="card-header" style="background-color:#c0c0c0;">
-		<a href="#become-sponsor" class="text-reset">Silver</a>
-	</div>
-	<div class="card-header">
-		<a href="#become-sponsor" class="text-reset">Suggested donation <strong>500€</strong></a>
-	</div>
+	<a href="#become-sponsor" class="text-reset"><div class="card-header" style="background-color:#c0c0c0;">Silver</div></a>
+	<a href="#become-sponsor" class="text-reset"><div class="card-header">
+		Suggested donation <strong>500€</strong>
+	</div></a>
 	<div class="card-body">
 		<strong>Benefits:</strong>
 		<ul>
@@ -55,12 +59,13 @@ Besides **programming languages**, the international community behind BOPL spans
 </div>
 
 <div class="card tierLink-gold mt-2">
+	<a href="#become-sponsor" class="text-reset">
 	<div class="card-header" style="background-color:#ffd700;">
-		<a href="#become-sponsor" class="text-reset">Gold</a>
-	</div>
-	<div class="card-header">
-		<a href="#become-sponsor" class="text-reset">Suggested donation <strong>1000€</strong></a>
-	</div>
+		Gold
+	</div></a>
+	<a href="#become-sponsor" class="text-reset"><div class="card-header">
+		Suggested donation <strong>1000€</strong>
+	</div></a>
 	<div class="card-body">
 		<strong>Benefits:</strong>
 		<ul>
@@ -75,7 +80,6 @@ Besides **programming languages**, the international community behind BOPL spans
 <h2 class="mt-5" id="become-sponsor" >Becoming a BOPL 2020 Sponsor</h2>
 
 You can make a donation to BOPL 2020 and become one of its sponsors by contacting the Financial Chair directly (<a href="mailto:saverio.giallorenzo@gmail.com?subject=Sponsoring%20BOPL%202020" target="_blank" class="btn btn-info btn-sm">Saverio Giallorenzo</a>) or by submitting the form below, reporting your preferred options, so that we can contact you back.
-
 
 <form id="fs-frm" name="sponsing-contact-form" accept-charset="utf-8" action="https://formspree.io/saverio.giallorenzo@gmail.com" method="post">
   <div class="form-group">
