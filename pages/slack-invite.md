@@ -12,7 +12,7 @@ The Slack workspace is where you will receive instructions on how to access the 
 
 IMPORTANT: Please use your full name when you accept the Slack invitation. At a physical conference you would have a name badge, and at our virtual conference it is important to replicate this so that all conference attendees know with whom they are communicating.
 
-<form id="slack-form" name="contact" method="POST" data-netlify="true">
+<form id="slack-form" name="slack" method="POST" data-netlify="true">
     <div class="form-group">
         <label for="email"><b>Email</b></label>
         <input class="form-control" type="email" name="email" id="email" autocomplete="email"
