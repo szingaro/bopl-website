@@ -15,7 +15,7 @@ The Bologna Federated Conference on Programming Language (BOPL) 2020 includes fo
 
 Besides **programming languages**, the international community behind BOPL spans areas of computer science that include **software engineering**, **artificial intelligence**, **logics**, and **mathematics** and it brings together *200+ researchers and practitioners* to present the latest developments in their respective fields.
 
-**BOPL 2020 [welcomes corporate donations](#bopl-2020-support-tiers)** to help maintain and improve the overall experience of attending the conference. We will use money from corporate sponsors to subsidise attendance, especially for students (e.g., with prizes in dedicated sessions), and to cover the costs of the organisation and of the fees to let the contents of BOPL be open access to everyone.
+**BOPL 2020 [welcomes corporate donations](#supporting-bopl-2020)** to help maintain and improve the overall experience of attending the conference. We will use money from corporate sponsors to subsidise attendance, especially for students (e.g., with prizes in dedicated sessions), and to cover the costs of the organisation and of the fees to let the contents of BOPL be open access to everyone.
 
 ### BOPL 2020 Sponsors
 
@@ -23,11 +23,11 @@ Besides **programming languages**, the international community behind BOPL spans
 
 <div class="mt-5"></div>
 
-## Sponsoring BOPL 2020
+<h2 id="supporting-bopl-2020">Sponsoring BOPL 2020</h2>
 
 ### BOPL 2020 Support tiers
 
-BOPL welcomes corporate donations. To help donors orient on their decision, we include below a set of suggested tiers, donation quotas, and related benefits.
+BOPL welcomes corporate donations. To help donors orient on their decision, we include below a set of suggested tiers, donation quotas, and related benefits &mdash; <i>tiers are clickable and direct you to the contact [form for donations](#become-sponsor) at the end of this page</i>.
 
 <div class="card tierLink-bronze mt-3">
 	<a href="#become-sponsor" class="text-reset"><div class="card-header" style="background-color:#f4a460;">
