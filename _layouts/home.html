@@ -2,27 +2,8 @@
 layout: default
 ---
 
-
-{% include page-intro.html %}
-
 <div class="py-4 h2">
     {{ page.title }}
 </div>
 
-<div class="row">
-    
-    <div class="col-lg-8">
-        
-        {{ content }}
-        
-    </div>
-    
-    <div class="col-lg-4">
-        
-        {% include page-sidebar.html %}
-        
-    </div>
-    
-</div>
-
-
+{{ content }}

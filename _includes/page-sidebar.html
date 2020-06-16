@@ -8,11 +8,13 @@
     Gold Sponsors
   </div>
   <div class="card-body text-center">
-{% for sponsor in gold %}
-    <a href="{{ sponsor.link }}" class="text-reset">
-      <img src="assets/images/sponsors/{{ sponsor.image }}" class="img-fluid w-75" alt="">
-    </a>
-{% endfor %}
+    {% for sponsor in gold %}
+    <div class="col-md-5">
+      <a href="{{ sponsor.link }}" class="text-reset">
+        <img src="assets/images/sponsors/{{ sponsor.image }}" class="img-fluid" alt="">
+      </a>
+    </div>
+    {% endfor %}
   </div>
 </div>
 {% endif %}
@@ -23,11 +25,13 @@
     Silver Sponsors
   </div>
   <div class="card-body text-center">
-{% for sponsor in silver %}
-    <a href="{{ sponsor.link }}" class="text-reset">
-      <img src="assets/images/sponsors/{{ sponsor.image }}" class="img-fluid w-75" alt="">
-    </a>
-{% endfor %}
+    {% for sponsor in silver %}
+    <div class="col-md-5">
+      <a href="{{ sponsor.link }}" class="text-reset">
+        <img src="assets/images/sponsors/{{ sponsor.image }}" class="img-fluid" alt="">
+      </a>
+    </div>
+    {% endfor %}
   </div>
 </div>
 {% endif %}
@@ -38,11 +42,13 @@
     Bronze Sponsors
   </div>
   <div class="card-body text-center">
-{% for sponsor in bronze %}
-    <a href="{{ sponsor.link }}" class="text-reset">
-      <img src="assets/images/sponsors/{{ sponsor.image }}" class="img-fluid w-75" alt="">
-    </a>
-{% endfor %}
+    {% for sponsor in bronze %}
+    <div class="col-md-5">
+      <a href="{{ sponsor.link }}" class="text-reset">
+        <img src="assets/images/sponsors/{{ sponsor.image }}" class="img-fluid" alt="">
+      </a>
+    </div>
+    {% endfor %}
   </div>
 </div>
 {% endif %}
