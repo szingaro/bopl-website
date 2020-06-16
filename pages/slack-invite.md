@@ -6,9 +6,9 @@ section: slack-invite
 
 ---
 
-Please use this form to request an invitation to the PLDI 2020 Slack workspace. Enter the email address that you used when you registered for PLDI.
+Please use this form to request an invitation to the BOPL 2020 Slack workspace. Enter the email address that you used when you registered for BOPL.
 
-The Slack workspace is where you will receive instructions on how to access the conference content, and it is where all conference discussion and Q&A will take place.
+The Slack workspace is where you will receive instructions on how to access the conference content, and it is where all discussions of all the BOPL conferences and Q&A will take place.
 
 IMPORTANT: Please use your full name when you accept the Slack invitation. At a physical conference you would have a name badge, and at our virtual conference it is important to replicate this so that all conference attendees know with whom they are communicating.
 
