@@ -32,9 +32,12 @@ contents of BOPL be open access to everyone.
 	BOPL 2020 Support tiers
 </div>
 
+<div class="alert alert-info" role="alert">
+  The deadline to present the request to become a sponsor is <span class="text-danger">Friday 17 of July, 2020</span>.
+</div>
+
 BOPL welcomes corporate donations. To help donors orient on their decision, we include below a set of suggested tiers,
-donation quotas, and related benefits &mdash; <i>tiers are clickable and direct you to the contact [form for
-	donations](#become-sponsor) at the end of this page</i>.
+donation quotas, and related benefits &mdash; <i>tiers are clickable and direct you to the contact [form for donations](#become-sponsor) at the end of this page</i>.
 
 <div class="card tierLink-bronze mt-3">
 	<a href="#become-sponsor" class="text-reset">
