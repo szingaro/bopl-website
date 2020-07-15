@@ -12,7 +12,7 @@ In this page it is possible to find information concerning how to attend the con
 	Registration
 </div>
 
-TBA
+The registration is now available at the [dedicated page](https://webplatform.planning.it/bopl2020/Register?hack=bopl2020).
 
 <div class="py-4 h3">
 	Joining instructions for BOPL
