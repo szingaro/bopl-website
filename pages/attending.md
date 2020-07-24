@@ -6,13 +6,15 @@ section: attending
 
 ---
 
-In this page it is possible to find information concerning how to attend the conference.
+<!-- In this page it is possible to find information concerning how to attend the conference. -->
 
-<div class="py-4 h3">
-	Registration
-</div>
+<!-- <div class="py-4 h3">Registration</div> -->
 
-The registration is now available at the [dedicated page](https://webplatform.planning.it/bopl2020/Register?hack=bopl2020).
+The **registration** is now available at the [dedicated page](https://webplatform.planning.it/bopl2020/Register?hack=bopl2020).
+
+**Important note.**
+All the attendees of the BOPL conference will have a 50% of discounts for joining the [Microservices Community](https://microservices.sdu.dk/). 
+Remember to check the privacy acknowledgement if you wish your name and e-mail to be sent to them.
 
 <div class="py-4 h3">
 	Joining instructions for BOPL
@@ -33,17 +35,19 @@ Your Slack handle is your virtual name badge, and it is important for all confer
 
 Get an invitation at [bopl.cs.unibo.it/slack-invite](slack-invite)
 
-<!-- For your invitation to work, you will need to use the email address that you used when registering for BOPL. If you believe you are using this link yet you do not manage to get a Slack invitation then email registration@regmaster.com for support.
+<!--For your invitation to work, you will need to use the email address that you used when registering for BOPL. If you believe you are using this link yet you do not manage to get a Slack invitation then email registration@regmaster.com for support.-->
 
-BOPL and its co-located events will be delivered as webinars. You will receive announcements on Slack for how to access the conference tracks as YouTube live streams in due course. If Slack is not available in your country then you will receive a Zoom webinar invitation instead.
+<!--BOPL and its co-located events will be delivered as webinars. You will receive announcements on Slack for how to access the conference tracks as YouTube live streams in due course. If Slack is not available in your country then you will receive a Zoom webinar invitation instead.-->
 
-From the online conference program, you can create a personalised iCal calendar for the sessions you are most interested in.
+<!--From the online conference program, you can create a personalised iCal calendar for the sessions you are most interested in.-->
 
-If you use social media, please help us to create a buzz around the conference using the #BOPL2020 hashtag. You may wish to follow the conference on Twitter or Facebook. -->
+<!--If you use social media, please help us to create a buzz around the conference using the #BOPL2020 hashtag. You may wish to follow the conference on Twitter or Facebook.-->
 
 <div class="py-4 h3">
 	How will the virtual conference work?
 </div>
+
+TBA
 
 <!-- Check out these videos that give a flavour of how the conference will run:
 
