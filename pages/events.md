@@ -54,7 +54,8 @@ All the events will be held between Monday 7th and Thursady 10th of September 20
     In the following table we present a detailed version of the conference schedule, for each time slot.
     Timetables are intended in Bologna time (Italy, CEST).
     <span class="alert">
-        Please note that the Microservices conference schedule is not yet definitive and will be modified according as soon as it is finalized.
+        Please note that the Microservices conference schedule is not yet definitive and will be modified according as
+        soon as it is finalized.
     </span>
 </p>
 
@@ -142,6 +143,7 @@ All the events will be held between Monday 7th and Thursady 10th of September 20
             <td>LOPSTR | WFLP</td>
             <td>LOPSTR | PPDP | Microservices</td>
             <td>PPDP | Microservices</td>
+            <td>-</td>
         </tr>
         <tr>
             <th scope="row">16:30 - 17:00</th>
