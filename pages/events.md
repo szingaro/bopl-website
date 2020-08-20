@@ -60,185 +60,123 @@ All the events will be held between Monday 7th and Thursady 10th of September 20
 
 <table class="table table-responsive-sm table-hover text-center">
     <tbody>
-        <tr style='height:20px;'>
-            <td class="s0"></td>
-            <td class="s0" dir="ltr"></td>
-            <td class="s0" dir="ltr"></td>
-            <td class="s2" dir="ltr">LOPSTR</td>
-            <td class="s2" dir="ltr">LOPSTR</td>
-            <td class="s2" dir="ltr">LOPSTR</td>
-            <td class="s0"></td>
-            <td class="s0"></td>
+        <tr>
+            <th scope="row">10:30 - 11:00</td>
+            <td>Opening</td>
+            <td>Opening</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
         </tr>
-        <tr style='height:20px;'>
-            <td class="s0" dir="ltr"></td>
-            <td class="s0" dir="ltr"></td>
-            <td class="s0" dir="ltr"></td>
-            <td class="s3" dir="ltr">WFLP</td>
-            <td class="s4" dir="ltr">PPDP</td>
-            <td class="s4" dir="ltr">PPDP</td>
-            <td class="s4" dir="ltr">PPDP</td>
-            <td class="s0"></td>
+        <tr>
+            <th scope="row">11:00 - 11:30</th>
+            <td>LOPSTR | WFLP</td>
+            <td>LOPSTR | PPDP | Microservices</td>
+            <td>LOPSTR | PPDP | Microservices</td>
+            <td>PPDP | Microservices</td>
+            <td>-</td>
         </tr>
-        <tr style='height:20px;'>
-            <td class="s0" dir="ltr"></td>
-            <td class="s0"></td>
-            <td class="s0"></td>
-            <td class="s0"></td>
-            <td class="s5" dir="ltr">MICROSERV</td>
-            <td class="s5" dir="ltr">MICROSERV</td>
-            <td class="s5" dir="ltr">MICROSERV</td>
-            <td class="s0"></td>
+        <tr>
+            <th scope="row">11:30 - 12:00</th>
+            <td>LOPSTR | WFLP</td>
+            <td>LOPSTR | PPDP | Microservices</td>
+            <td>LOPSTR | PPDP | Microservices</td>
+            <td>PPDP | Microservices</td>
+            <td>-</td>
         </tr>
-            <td class="s0" dir="ltr" colspan="8">Bologna time (CEST)</td>
+        <tr>
+            <th scope="row">12:00 - 12:30</th>
+            <td>LOPSTR | WFLP</td>
+            <td>LOPSTR | PPDP | Microservices</td>
+            <td>LOPSTR | PPDP | Microservices</td>
+            <td>PPDP | Microservices</td>
+            <td>-</td>
         </tr>
-        <tr style='height:20px;'>
-            <td class="s0" dir="ltr">10:30</td>
-            <td class="s0" dir="ltr">-</td>
-            <td class="s0" dir="ltr">11:00</td>
-            <td class="s6" dir="ltr">Opening</td>
-            <td class="s6" dir="ltr">Opening</td>
-            <td class="s6" dir="ltr"></td>
-            <td class="s6" dir="ltr"></td>
-            <td class="s0"></td>
+        <tr>
+            <th scope="row">12:30 - 13:00</th>
+            <td>Lunch break</td>
+            <td>Lunch break</td>
+            <td>Lunch break</td>
+            <td>Lunch break</td>
+            <td>-</td>
         </tr>
-        <tr style='height:20px;'>
-            <td class="s0" dir="ltr">11:00</td>
-            <td class="s0" dir="ltr">-</td>
-            <td class="s0" dir="ltr">11:30</td>
-            <td class="s7" dir="ltr">LOPSTR | WFLP</td>
-            <td class="s7" dir="ltr">LOPSTR | PPDP | MICROSERV</td>
-            <td class="s7" dir="ltr">LOPSTR | PPDP | MICROSERV</td>
-            <td class="s7" dir="ltr">PPDP | MICROSERV</td>
-            <td class="s0"></td>
+        <tr>
+            <th scope="row">13:00 - 13:30</th>
+            <td>Lunch break</td>
+            <td>Lunch break</td>
+            <td>Lunch break</td>
+            <td>Lunch break</td>
+            <td>-</td>
         </tr>
-        <tr style='height:20px;'>
-            <td class="s0" dir="ltr">11:30</td>
-            <td class="s0" dir="ltr">-</td>
-            <td class="s0" dir="ltr">12:00</td>
-            <td class="s7" dir="ltr">LOPSTR | WFLP</td>
-            <td class="s7" dir="ltr">LOPSTR | PPDP | MICROSERV</td>
-            <td class="s7" dir="ltr">LOPSTR | PPDP | MICROSERV</td>
-            <td class="s7" dir="ltr">PPDP | MICROSERV</td>
-            <td class="s0"></td>
+        <tr>
+            <th scope="row">13:30 - 14:00</th>
+            <td>WFLP</td>
+            <td>PPDP</td>
+            <td>Lunch break</td>
+            <td>Lunch break</td>
+            <td>-</td>
         </tr>
-        <tr style='height:20px;'>
-            <td class="s0" dir="ltr">12:00</td>
-            <td class="s0" dir="ltr">-</td>
-            <td class="s0" dir="ltr">12:30</td>
-            <td class="s7" dir="ltr">LOPSTR | WFLP</td>
-            <td class="s7" dir="ltr">LOPSTR | PPDP | MICROSERV</td>
-            <td class="s7" dir="ltr">LOPSTR | PPDP | MICROSERV</td>
-            <td class="s7" dir="ltr">PPDP | MICROSERV</td>
-            <td class="s0"></td>
+        <tr>
+            <th scope="row">14:00 - 14:30</th>
+            <td>LOPSTR | WFLP</td>
+            <td>LOPSTR | PPDP | Microservices</td>
+            <td>LOPSTR | PPDP | Microservices</td>
+            <td>PPDP | Microservices</td>
+            <td>-</td>
         </tr>
-        <tr style='height:20px;'>
-            <td class="s0" dir="ltr">12:30</td>
-            <td class="s0" dir="ltr">-</td>
-            <td class="s0" dir="ltr">13:00</td>
-            <td class="s6" dir="ltr">Lunch break</td>
-            <td class="s6" dir="ltr">Lunch break</td>
-            <td class="s6" dir="ltr">Lunch break</td>
-            <td class="s6" dir="ltr">Lunch break</td>
-            <td class="s0"></td>
+        <tr>
+            <th scope="row">14:30 - 15:00</th>
+            <td>LOPSTR | WFLP</td>
+            <td>LOPSTR | PPDP | Microservices</td>
+            <td>LOPSTR | PPDP | Microservices</td>
+            <td>PPDP | Microservices</td>
+            <td>-</td>
         </tr>
-        <tr style='height:20px;'>
-            <td class="s0" dir="ltr">13:00</td>
-            <td class="s0" dir="ltr">-</td>
-            <td class="s0" dir="ltr">13:30</td>
-            <td class="s6" dir="ltr">Lunch break</td>
-            <td class="s6" dir="ltr">Lunch break</td>
-            <td class="s6" dir="ltr">Lunch break</td>
-            <td class="s6" dir="ltr">Lunch break</td>
-            <td class="s0"></td>
+        <tr>
+            <th scope="row">15:00 - 15:30</th>
+            <td>Coffee break</td>
+            <td>Coffee break</td>
+            <td>Coffee break</td>
+            <td>Coffee break</td>
+            <td>-</td>
         </tr>
-        <tr style='height:20px;'>
-            <td class="s0" dir="ltr">13:30</td>
-            <td class="s0" dir="ltr">-</td>
-            <td class="s0" dir="ltr">14:00</td>
-            <td class="s7" dir="ltr">WFLP</td>
-            <td class="s7" dir="ltr">PPDP</td>
-            <td class="s6" dir="ltr">Lunch break</td>
-            <td class="s6" dir="ltr">Lunch break</td>
-            <td class="s0"></td>
+        <tr>
+            <th scope="row">15:30 - 16:00</th>
+            <td>LOPSTR | WFLP</td>
+            <td rowspan="2">Plenary BOPL talk: José Meseguer</td>
+            <td>LOPSTR | PPDP | Microservices</td>
+            <td>PPDP | Microservices</td>
+            <td>-</td>
         </tr>
-        <tr style='height:20px;'>
-            <td class="s0" dir="ltr">14:00</td>
-            <td class="s0" dir="ltr">-</td>
-            <td class="s0" dir="ltr">14:30</td>
-            <td class="s7" dir="ltr">LOPSTR | WFLP</td>
-            <td class="s7" dir="ltr">LOPSTR | PPDP | MICROSERV</td>
-            <td class="s7" dir="ltr">LOPSTR | PPDP | MICROSERV</td>
-            <td class="s7" dir="ltr">PPDP | MICROSERV</td>
-            <td class="s0"></td>
+        <tr>
+            <th scope="row">16:00 - 16:30</th>
+            <td>LOPSTR | WFLP</td>
+            <td>LOPSTR | PPDP | Microservices</td>
+            <td>PPDP | Microservices</td>
+            <td>-</td>
         </tr>
-        <tr style='height:20px;'>
-            <td class="s0" dir="ltr">14:30</td>
-            <td class="s0" dir="ltr">-</td>
-            <td class="s0" dir="ltr">15:00</td>
-            <td class="s7" dir="ltr">LOPSTR | WFLP</td>
-            <td class="s7" dir="ltr">LOPSTR | PPDP | MICROSERV</td>
-            <td class="s7" dir="ltr">LOPSTR | PPDP | MICROSERV</td>
-            <td class="s7" dir="ltr">PPDP | MICROSERV</td>
-            <td class="s0"></td>
+        <tr>
+            <th scope="row">16:30 - 17:00</th>
+            <td> Tea Break </td>
+            <td> Tea Break</td>
+            <td> Tea Break</td>
+            <td>Closing</td>
+            <td>-</td>
         </tr>
-        <tr style='height:20px;'>
-            <td class="s0" dir="ltr">15:00</td>
-            <td class="s0" dir="ltr">-</td>
-            <td class="s0" dir="ltr">15:30</td>
-            <td class="s6" dir="ltr">Coffee break</td>
-            <td class="s6" dir="ltr">Coffee break</td>
-            <td class="s6" dir="ltr">Coffee break</td>
-            <td class="s6" dir="ltr">Coffee break</td>
-            <td class="s0"></td>
+        <tr>
+            <th scope="row">17:00 - 17:30</th>
+            <td>LOPSTR | WFLP</td>
+            <td>-</td>
+            <td rowspan="2">Industrial session</td>
+            <td>-</td>
+            <td>-</td>
         </tr>
-        <tr style='height:20px;'>
-            <td class="s0" dir="ltr">15:30</td>
-            <td class="s0" dir="ltr">-</td>
-            <td class="s0" dir="ltr">16:00</td>
-            <td class="s7" dir="ltr">LOPSTR | WFLP</td>
-            <td class="s8" dir="ltr" rowspan="2">Plenary BOPL talk: José Meseguer</td>
-            <td class="s7" dir="ltr">LOPSTR | PPDP | MICROSERV</td>
-            <td class="s7" dir="ltr">PPDP | MICROSERV</td>
-            <td class="s0"></td>
-        </tr>
-        <tr style='height:20px;'>
-            <td class="s0" dir="ltr">16:00</td>
-            <td class="s0" dir="ltr">-</td>
-            <td class="s0" dir="ltr">16:30</td>
-            <td class="s7" dir="ltr">LOPSTR | WFLP</td>
-            <td class="s7" dir="ltr">LOPSTR | PPDP | MICROSERV</td>
-            <td class="s7" dir="ltr">PPDP | MICROSERV</td>
-            <td class="s0"></td>
-        </tr>
-        <tr style='height:20px;'>
-            <td class="s0" dir="ltr">16:30</td>
-            <td class="s0" dir="ltr">-</td>
-            <td class="s0" dir="ltr">17:00</td>
-            <td class="s9" dir="ltr"> Tea Break </td>
-            <td class="s9" dir="ltr"> Tea Break</td>
-            <td class="s9" dir="ltr"> Tea Break</td>
-            <td class="s9" dir="ltr">Closing</td>
-            <td class="s0"></td>
-        </tr>
-        <tr style='height:20px;'>
-            <td class="s0" dir="ltr">17:00</td>
-            <td class="s0" dir="ltr">-</td>
-            <td class="s0" dir="ltr">17:30</td>
-            <td class="s7" dir="ltr">LOPSTR | WFLP</td>
-            <td class="s10" dir="ltr"></td>
-            <td class="s11" dir="ltr" rowspan="2">Industrial session</td>
-            <td class="s10"></td>
-            <td class="s0"></td>
-        </tr>
-        <tr style='height:20px;'>
-            <td class="s0" dir="ltr">17:30</td>
-            <td class="s0" dir="ltr">-</td>
-            <td class="s0" dir="ltr">18:00</td>
-            <td class="s7" dir="ltr">LOPSTR | WFLP</td>
-            <td class="s10" dir="ltr"></td>
-            <td class="s10"></td>
-            <td class="s0"></td>
+        <tr>
+            <th scope="row">17:30 - 18:00</th>
+            <td>LOPSTR | WFLP</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
         </tr>
     </tbody>
 </table>
