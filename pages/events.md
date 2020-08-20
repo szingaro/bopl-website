@@ -49,3 +49,122 @@ All the events will be held between Monday 7th and Thursady 10th of September 20
         </tr>
     </tbody>
 </table>
+
+<p>
+    In the following table we present a detailed version of the conference schedule, for each time slot.
+    Timetables are intended in Bologna time (Italy, CEST).
+    <span class="alert">
+        Please note that the Microservices conference schedule is not yet definitive and will be modified according as
+        soon as it is finalized.
+    </span>
+</p>
+
+<table class="table table-responsive-sm table-hover text-center">
+    <tbody>
+        <tr>
+            <th scope="row">10:30 - 11:00</td>
+            <td>Opening</td>
+            <td>Opening</td>
+            <td>-</td>
+            <td>-</td>
+        </tr>
+        <tr>
+            <th scope="row">11:00 - 11:30</th>
+            <td>LOPSTR | WFLP</td>
+            <td>LOPSTR | PPDP | Microservices</td>
+            <td>LOPSTR | PPDP | Microservices</td>
+            <td>PPDP | Microservices</td>
+        </tr>
+        <tr>
+            <th scope="row">11:30 - 12:00</th>
+            <td>LOPSTR | WFLP</td>
+            <td>LOPSTR | PPDP | Microservices</td>
+            <td>LOPSTR | PPDP | Microservices</td>
+            <td>PPDP | Microservices</td>
+        </tr>
+        <tr>
+            <th scope="row">12:00 - 12:30</th>
+            <td>LOPSTR | WFLP</td>
+            <td>LOPSTR | PPDP | Microservices</td>
+            <td>LOPSTR | PPDP | Microservices</td>
+            <td>PPDP | Microservices</td>
+        </tr>
+        <tr>
+            <th scope="row">12:30 - 13:00</th>
+            <td>Lunch break</td>
+            <td>Lunch break</td>
+            <td>Lunch break</td>
+            <td>Lunch break</td>
+        </tr>
+        <tr>
+            <th scope="row">13:00 - 13:30</th>
+            <td>Lunch break</td>
+            <td>Lunch break</td>
+            <td>Lunch break</td>
+            <td>Lunch break</td>
+        </tr>
+        <tr>
+            <th scope="row">13:30 - 14:00</th>
+            <td>WFLP</td>
+            <td>PPDP</td>
+            <td>Lunch break</td>
+            <td>Lunch break</td>
+        </tr>
+        <tr>
+            <th scope="row">14:00 - 14:30</th>
+            <td>LOPSTR | WFLP</td>
+            <td>LOPSTR | PPDP | Microservices</td>
+            <td>LOPSTR | PPDP | Microservices</td>
+            <td>PPDP | Microservices</td>
+        </tr>
+        <tr>
+            <th scope="row">14:30 - 15:00</th>
+            <td>LOPSTR | WFLP</td>
+            <td>LOPSTR | PPDP | Microservices</td>
+            <td>LOPSTR | PPDP | Microservices</td>
+            <td>PPDP | Microservices</td>
+        </tr>
+        <tr>
+            <th scope="row">15:00 - 15:30</th>
+            <td>Coffee break</td>
+            <td>Coffee break</td>
+            <td>Coffee break</td>
+            <td>Coffee break</td>
+        </tr>
+        <tr>
+            <th scope="row">15:30 - 16:00</th>
+            <td>LOPSTR | WFLP</td>
+            <td rowspan="2">Plenary BOPL talk: José Meseguer</td>
+            <td>LOPSTR | PPDP | Microservices</td>
+            <td>PPDP | Microservices</td>
+        </tr>
+        <tr>
+            <th scope="row">16:00 - 16:30</th>
+            <td>LOPSTR | WFLP</td>
+            <td>LOPSTR | PPDP | Microservices</td>
+            <td>PPDP | Microservices</td>
+            <td>-</td>
+        </tr>
+        <tr>
+            <th scope="row">16:30 - 17:00</th>
+            <td> Tea Break </td>
+            <td> Tea Break</td>
+            <td> Tea Break</td>
+            <td>Closing</td>
+        </tr>
+        <tr>
+            <th scope="row">17:00 - 17:30</th>
+            <td>LOPSTR | WFLP</td>
+            <td>-</td>
+            <td rowspan="2">Industrial session</td>
+            <td>-</td>
+        </tr>
+        <tr>
+            <th scope="row">17:30 - 18:00</th>
+            <td>LOPSTR | WFLP</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+        </tr>
+    </tbody>
+</table>
