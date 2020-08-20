@@ -3,7 +3,6 @@ layout: page
 title: Events
 permalink: /events
 section: events
-published: false
 
 ---
 
