@@ -14,7 +14,7 @@ The Bologna Federated Conference on Programming Language (BOPL) 2020 includes fo
 - 22nd International Symposium on Principles and Practice of Declarative Programming.
 
 Besides **programming languages**, the international community behind BOPL spans areas of computer science that include
-**software engineering**, **artificial intelligence**, **logics**, and **mathematics** and it brings together *200+
+**software engineering**, **artificial intelligence**, **security**, **logics**, and **mathematics** and it brings together *200+
 researchers and practitioners* to present the latest developments in their respective fields.
 
 **BOPL 2020 [welcomes corporate donations](#supporting-bopl-2020)** to help maintain and improve the overall experience
@@ -32,8 +32,8 @@ contents of BOPL be open access to everyone.
 	BOPL 2020 Support tiers
 </div>
 
-<div class="alert alert-info" role="alert">
-  The deadline to present the request to become a sponsor is <span class="text-danger">Friday 17 of July, 2020</span>.
+<div class="alert alert-info font-weight-bold text-center" role="alert">
+  The deadline to respond to the BOPL 2020 Call for Sponsors is July 17th, 2020.
 </div>
 
 BOPL welcomes corporate donations. To help donors orient on their decision, we include below a set of suggested tiers,

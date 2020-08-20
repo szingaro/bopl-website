@@ -167,4 +167,8 @@ All the events will be held between Monday 7th and Thursady 10th of September 20
             <td>-</td>
         </tr>
     </tbody>
+<<<<<<< HEAD
 </table>
+=======
+</table>
+>>>>>>> 08f2f92ec6ec60a1ede9a2562c382da102d08539
