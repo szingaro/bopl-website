@@ -200,9 +200,9 @@ as soon as it is finalised.
         </tr>
         <tr>
             <th scope="row" class="small">16:30&ndash;17:00</th>
-            <td class="text-muted"><i class="fas fa-mug-hot"></i> Coffee tea</td>
+            <td class="text-muted"><i class="fas fa-mug-hot"></i> Tea break</td>
             <td class="text-info"><strong>Closing</strong></td>
-            <td class="text-muted"><i class="fas fa-mug-hot"></i> Coffee tea</td>
+            <td class="text-muted"><i class="fas fa-mug-hot"></i> Tea break</td>
             <td class="text-info"><strong>Closing</strong></td>
         </tr>
         <tr>
