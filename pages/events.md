@@ -53,10 +53,6 @@ All the events will be held between Monday 7th and Thursady 10th of September 20
 <p class="my-5">
 Please, find below the detailed version of the conference schedule
 above &mdash; Bologna time (Italy, UTC+2).
-<span class="text-danger font-italic">
-Note that the schedule of Microservices is not yet definitive. We will update it
-as soon as it is finalised.
-</span>
 </p>
 
 <style>
