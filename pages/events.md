@@ -118,8 +118,8 @@ as soon as it is finalised.
             <th scope="row" class="small">10:30&ndash;11:00</th>
             <td class="text-info"><strong>Opening</strong></td>
             <td class="text-info"><strong>Opening</strong></td>
-            <td></td>
-            <td></td>
+            <td class="text-normal"><span class="microservices">M</span></td>
+            <td class="text-normal"><span class="microservices">M</span></td>
         </tr>
         <tr>
             <th scope="row" class="small">11:00&ndash;11:30</th>
@@ -159,9 +159,9 @@ as soon as it is finalised.
         <tr>
             <th scope="row" class="small">13:30&ndash;14:00</th>
             <td class="text-normal"><span class="wflp">W</span></td>
-            <td class="text-normal"><span class="ppdp">P</span></td>
-            <td class="text-muted"><i class="fas fa-utensils"></i> Lunch break</td>
-            <td class="text-muted"><i class="fas fa-utensils"></i> Lunch break</td>
+            <td class="text-normal"><span class="ppdp">P</span> <span class="microservices">M</span></td>
+            <td class="text-normal"><span class="microservices">M</span></td>
+            <td class="text-normal"><span class="microservices">M</span></td>
         </tr>
         <tr>
             <th scope="row" class="small">14:00&ndash;14:30</th>
@@ -201,14 +201,14 @@ as soon as it is finalised.
         <tr>
             <th scope="row" class="small">16:30&ndash;17:00</th>
             <td class="text-muted"><i class="fas fa-mug-hot"></i> Tea break</td>
-            <td class="text-info"><strong>Closing</strong></td>
+            <td class="text-muted"><i class="fas fa-mug-hot"></i> Tea break</td>
             <td class="text-muted"><i class="fas fa-mug-hot"></i> Tea break</td>
             <td class="text-info"><strong>Closing</strong></td>
         </tr>
         <tr>
             <th scope="row" class="small">17:00&ndash;17:30</th>
             <td class="text-normal"><span class="lopstr">L</span> <span class="wflp">W</span></td>
-            <td></td>
+            <td class="text-normal"><span class="microservices">M</span></td>
             <td><mark><i><span class="text-muted">Industrial session</span></i></mark></td>
             <td></td>
         </tr>
