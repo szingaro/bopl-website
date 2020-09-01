@@ -12,7 +12,7 @@ section: attending
 
 The **registration** is now available at the <a href="https://webplatform.planning.it/bopl2020/Register?hack=bopl2020" target="_blank">dedicated page</a>.
 It will be possible to register till Thursday, **the 3rd of September**.
-The fee is fixed to **30 EUR** (_VAT_ included) both for authors and attendees and will give access to all virtual events.
+The fee is fixed to **30 EUR** (_VAT_ included) both for authors and attendees and will give access to all virtual events of all conferences.
 
 **Important note.**
 All the attendees of the BOPL conference will have a 50% of discounts for joining the [Microservices Community](https://microservices.sdu.dk/). 
