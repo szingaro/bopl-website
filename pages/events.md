@@ -183,14 +183,14 @@ above &mdash; Bologna time (Italy, UTC+2).
         <tr>
             <th scope="row" class="small">15:30&ndash;16:00</th>
             <td class="text-normal"><span class="lopstr">L</span> <span class="wflp">W</span></td>
-            <td><mark><i><span class="text-muted">Plenary talk of <a href="http://formalmethods.web.engr.illinois.edu/meseguer/">Prof. José Meseguer</a></span></i></mark></td>
+            <td><span class="text-muted"><mark><i>Plenary talk of <a href="http://formalmethods.web.engr.illinois.edu/meseguer/">Prof. José Meseguer</a></i></mark> &mdash; Symbolic Computation in Maude: Some Tapas</span></td>
             <td class="text-normal"><span class="lopstr">L</span> <span class="ppdp">P</span> <span class="microservices">M</span></td>
             <td class="text-normal"><span class="ppdp">P</span> <span class="microservices">M</span></td>
         </tr>
         <tr>
             <th scope="row" class="small">16:00&ndash;16:30</th>
             <td class="text-normal"><span class="lopstr">L</span> <span class="wflp">W</span></td>
-            <td><mark><i><span class="text-muted">Plenary talk of <a href="http://formalmethods.web.engr.illinois.edu/meseguer/">Prof. José Meseguer</a></span></i></mark></td>
+            <td><span class="text-muted"><mark><i>Plenary talk of <a href="http://formalmethods.web.engr.illinois.edu/meseguer/">Prof. José Meseguer</a></i></mark> &mdash; Symbolic Computation in Maude: Some Tapas</span></td>
             <td class="text-normal"><span class="lopstr">L</span> <span class="ppdp">P</span> <span class="microservices">M</span></td>
             <td class="text-normal"><span class="ppdp">P</span> <span class="microservices">M</span></td>
         </tr>
