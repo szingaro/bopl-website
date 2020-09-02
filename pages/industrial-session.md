@@ -10,8 +10,21 @@ This page reports the contents of the Joint Industrial Session at BOPL 2020, tak
 
 ---
 
-<h2 id="injenia">The essence from cloud digital natives that effectively powers real Digital Transformation in the industry</h2>
+## TBA
 <small>17:00 - 17:30</small>
+
+<h3>Abstract</h3>
+
+TBA
+
+### Presenter
+
+TBA
+
+---
+
+<h2 id="injenia">The essence from cloud digital natives that effectively powers real Digital Transformation in the industry</h2>
+<small>17:30 - 18:00</small>
 
 <h3>Abstract</h3>
 
@@ -29,16 +42,3 @@ Luca Paganelli is a technology passionate with 15+ years of experience in
 architecting and delivering digital solutions for multiple industries in Italy
 spanning application development, data modelling, data analytics, and machine
 learning.
-
----
-
-## TBA
-<small>17:30 - 18:00</small>
-
-<h3>Abstract</h3>
-
-TBA
-
-### Presenter
-
-TBA

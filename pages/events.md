@@ -211,16 +211,8 @@ above &mdash; Bologna time (Italy, UTC+2).
             Industrial session
             </i>
             </mark>
-            <small>
-            <br />
-            <a href="/industrial-session.html#injenia">
-            Talk by Injenia Srl
-            </a>
-            <br />
-            <a href="https://us02web.zoom.us/j/81483955846?pwd=d1NYZHZNUngvbHN2OGFDaE5wZWxZUT09">Join Zoom Meeting</a>
-            </small>
             </span>
-            </td>
+            <br /><a class="small" href="https://us02web.zoom.us/j/81483955846?pwd=d1NYZHZNUngvbHN2OGFDaE5wZWxZUT09">Join Zoom Meeting</a></td>
             <td></td>
         </tr>
         <tr>
@@ -233,8 +225,16 @@ above &mdash; Bologna time (Italy, UTC+2).
             Industrial session
             </i>
             </mark>
+            <small>
+            <br />
+            <a href="/industrial-session.html#injenia">
+            Talk by Injenia Srl
+            </a>
+            <br />
+            <a href="https://us02web.zoom.us/j/81483955846?pwd=d1NYZHZNUngvbHN2OGFDaE5wZWxZUT09">Join Zoom Meeting</a>
+            </small>
             </span>
-            <br /><a class="small" href="https://us02web.zoom.us/j/81483955846?pwd=d1NYZHZNUngvbHN2OGFDaE5wZWxZUT09">Join Zoom Meeting</a></td>
+            </td>
             <td></td>
         </tr>
     </tbody>
