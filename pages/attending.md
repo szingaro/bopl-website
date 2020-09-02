@@ -37,38 +37,69 @@ Your Slack handle is your virtual name badge, and it is important for all confer
 
 Get an invitation at [bopl.cs.unibo.it/slack-invite](slack-invite)
 
-<!--For your invitation to work, you will need to use the email address that you used when registering for BOPL. If you believe you are using this link yet you do not manage to get a Slack invitation then email registration@regmaster.com for support.-->
-
-<!--BOPL and its co-located events will be delivered as webinars. You will receive announcements on Slack for how to access the conference tracks as YouTube live streams in due course. If Slack is not available in your country then you will receive a Zoom webinar invitation instead.-->
-
-<!--From the online conference program, you can create a personalised iCal calendar for the sessions you are most interested in.-->
-
-<!--If you use social media, please help us to create a buzz around the conference using the #BOPL2020 hashtag. You may wish to follow the conference on Twitter or Facebook.-->
-
 <div class="py-4 h3">
 	How will the virtual conference work?
 </div>
 
-TBA
+The technical program will run as a virtual meeting. 
+After registration closes, you will receive details on how to access the meeting via the Zoom platform.
 
-<!-- Check out these videos that give a flavour of how the conference will run:
+During each session one of the paper's authors will present and answer questions from conference ATTENDEES (live or chat), moderated by a Session Chair.
 
-    How virtual BOPL will work
-    Hallway interaction at BOPL
+We will use Slack for managing communication; you may ask to be invited using the [dedicated form](bopl.cs.unibo.it/slack-invite). 
+In any case, all the ATTENDEES will be invited to our Slack workspace after registration closes.
 
-The main BOPL conference will be Wednesday, 17 June through Friday, 19 June. Several exciting events that would usually be co-located with BOPL will also be held virtually during 15-16 June; see “Tracks” above for details.
+<!-- #### Zoom Meetings on Google Calendar 
 
-The BOPL technical program will be single track and will run 12h/day during 17-19 June. This means that it covers plenty of time zones! It also means that you can pick and choose the sessions you’d like to attend without the constraints imposed by parallel tracks. Check out the program.
+In order to be able to access the calendars, you should request permission from the Google account of your choice you.  
 
-The technical program will run as a webinar. After registering, you will receive details on how to access the webinar shortly after registration closes on 5 June. If you are in a country where YouTube is available you will access the webinar via a YouTube live stream. If YouTube is not available to you, you will be able to access the webinar via Zoom.
+Alternatively, you may send a message containing the Google mail to [bopl.organisation@gmail.com](mailto:bopl.organisation@gmail.com). 
 
-During each session a talk video for each paper will be broadcast to the webinar, after which one of the paper’s authors will answer questions from conference attendees live, moderated by a session chair.
+Links to Google calendars:
+- [BOPL](https://calendar.google.com/calendar?cid=Ym9wbC5vcmdhbmlzYXRpb25AZ21haWwuY29t) (openings, plenary session, industrial session, closing) 
+- [LOPSTR](https://calendar.google.com/calendar?cid=cWxzOHZ1dWFxbHRiZzVwaDVuc2o2YmY4OTBAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ)
+- [WFLP](https://calendar.google.com/calendar?cid=NTdwYWltbzFvbnBpNmJmMjNlZWZ0Ymk4cG9AZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ	)
+- [PPDP](https://calendar.google.com/calendar?cid=aDNqZnI0aDQ2M3VjODd0ZTZudHE3dGw1a3NAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ)
+- [Microservices](https://calendar.google.com/calendar?cid=cGMzZzcwaTQ4YWdxNTZsbzM3N2Q0ZDAwbXNAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ)
 
-There is also an “Ask me Anything” track, where several leading lights in the Programming Languages field will be available live to answer your most burning questions! Check out the Ask Me Anything program, which will also be delivered via a live stream using YouTube or Zoom depending on territory.
+*These calendars are intended for internal use, DO NOT SHARE them with the ATTENDEES.*
 
-We will use Slack for communication among attendees; you will be invited to our Slack workspace after registration closes.
+Links (without the passcode to access the Zoom room) will be published on the [dedicated web page](https://bopl.cs.unibo.it/events).  -->
 
-We are still brainstorming ideas for ways to achieve some of the social and networking aspects of a physical conference. -->
+#### Zoom Meetings Guidelines
+
+One of the members of the BOPL organization will be the host of the Zoom room (role HOST). 
+
+**The HOST performs the following tasks**:
+
+- Management of the Zoom rooms (e.g., create, delete, edit, …).  
+- The HOST sends the conference daily schedule (with the link and passcode to participate) to all the registered ATTENDEES the day before the session (e.g., schedule of Monday the 7th will be sent on Sunday the 6th). 
+- Check-in of the ATTENDEES from the waiting room. 
+- The HOST provides technical assistance to the Session Chair and the PRESENTER (e.g. mute/activate the microphone of the ATTENDEES, activation of the screen sharing, technical problems assistance). In case of problems of technical nature that are beyond the competence of the HOST, the intervention of the official Zoom assistance will be requested. 
+
+The Session Chair will be the co-host of the Zoom room (role CO-HOST). 
+
+**The CO-HOST**: 
+
+- Introduces the PRESENTER. 
+- Manages the timing of the presentation. 
+- Selects the questions from the official channels (Zoom chat + Slack channel) and moderates the communication between ATTENDEES and PRESENTER. 
+
+ATTENDEES may request the activation of the microphone to communicate, through the hand-raise (✋) function, offered by the Zoom platform. 
+
+#### Slack Workspace Guidelines 
+
+Communication between ATTENDEES, BOPL organization and PC is managed using the dedicated [Slack workspace](https://bopl2020organisation.slack.com/). 
+
+PC and [BOPL organization](https://bopl.cs.unibo.it/organization) are the administrators of the workspace (role ADMIN). 
+
+**Any ADMIN can**: 
+
+- Create and remove public channels. 
+- Subscribe or unsubscribe ATTENDEES from the created channels. 
+- Add new administrators. 
+
+ADMINs are encouraged to animate the channels and foster discussions deemed of interest. 
 
 <div class="py-4 h3">
 	Code of Conduct
