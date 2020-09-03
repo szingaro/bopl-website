@@ -27,7 +27,7 @@ IndustrialCloud architecture is underpinned by digital best practices (DevOps, S
 
 A critical success factor to successfully operate Industrial IOT real time application is the capability of distributing workload, including microservices, to edge technologies and devices.
 
-### Corrado Iorizzo, Philip Morris International
+### Corrado Iorizzo, IT Domain Architect Manufacturing at Philip Morris International
 
 Corrado Iorizzo joined Philip Morris International Operation Center in Lausanne (CH) during 2017 as Vanguard Enterprise Architect with the purpose of scouting, piloting and scaling innovative technologies in the company’s practices and eco-system with a specific focus on Industry 4.0, IoT and Cloud Computing.
 
