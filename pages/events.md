@@ -115,7 +115,7 @@ above &mdash; Bologna time (Italy, UTC+2).
             <td class="text-info"><strong>Opening<br /><a class="small" href="https://us02web.zoom.us/j/81221846281?pwd=ZVBKTlhzZkZXOXRaZjA3dU9zY0NYZz09">Join Zoom Meeting</a></strong></td>
             <td class="text-info"><strong>Opening<br /><a class="small" href="https://us02web.zoom.us/j/86542328968?pwd=U0k0M2hLUGJHME1BcjlLdCsza2ljdz09">Join Zoom Meeting</a></strong></td>
             <td class="text-normal"><span class="microservices"><a href="https://us02web.zoom.us/j/86014911483?pwd=WW1UWFRPaWF3VVc2c0RRdHBFam1Gdz09" title="Join Zoom Meeting">M</a></span></td>
-            <td class="text-normal"><span class="microservices"><a href="https://us02web.zoom.us/j/85692687858?pwd=bDljemJ4aEZJYnJZRlVCTy8xd29PUT09" title="Join Zoom Meeting">M</a></span></td>
+            <td></td>
         </tr>
         <tr>
             <th scope="row" class="small">11:00&ndash;11:30</th>
