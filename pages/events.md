@@ -214,7 +214,7 @@ above &mdash; Bologna time (Italy, UTC+2).
             <small>
             <br />
             <a href="/industrial-session.html#pmi">
-            Talk by Philip Morris International
+            Talk by Corrado Iorizzo, Philip Morris International
             </a>
             <br />
             <a href="https://us02web.zoom.us/j/81483955846?pwd=d1NYZHZNUngvbHN2OGFDaE5wZWxZUT09">Join Zoom Meeting</a>
@@ -236,7 +236,7 @@ above &mdash; Bologna time (Italy, UTC+2).
             <small>
             <br />
             <a href="/industrial-session.html#injenia">
-            Talk by Injenia Srl
+            Talk by Luca Paganelli, Injenia Srl
             </a>
             <br />
             <a href="https://us02web.zoom.us/j/81483955846?pwd=d1NYZHZNUngvbHN2OGFDaE5wZWxZUT09">Join Zoom Meeting</a>
