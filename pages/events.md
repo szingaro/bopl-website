@@ -211,15 +211,22 @@ above &mdash; Bologna time (Italy, UTC+2).
             Industrial session
             </i>
             </mark>
+            <small>
+            <br />
+            <a href="/industrial-session.html#pmi">
+            Talk by Philip Morris International
+            </a>
+            <br />
+            <a href="https://us02web.zoom.us/j/81483955846?pwd=d1NYZHZNUngvbHN2OGFDaE5wZWxZUT09">Join Zoom Meeting</a>
+            </small>
             </span>
-            <br /><a class="small" href="https://us02web.zoom.us/j/81483955846?pwd=d1NYZHZNUngvbHN2OGFDaE5wZWxZUT09">Join Zoom Meeting</a></td>
+            </td>
             <td></td>
         </tr>
         <tr>
             <th scope="row" class="small">17:30&ndash;18:00</th>
             <td class="text-normal"><span class="lopstr"><a href="https://us02web.zoom.us/j/84882509637?pwd=d0VJeS9vR0dpc0FxZTZDUDgzcTlkdz09" title="Join Zoom Meeting">L</a></span> <span class="wflp"><a href="https://us02web.zoom.us/j/83049802627?pwd=ZVpIOXpKaVRoQjQ0NDd0bkxWUDFBZz09" title="Join Zoom Meeting">W</a></span></td>
             <td class="text-normal"><span class="microservices"><a href="https://us02web.zoom.us/j/89239568074?pwd=N1B0RWJCMmJaQnlWRkhpSWhYbktiQT09" title="Join Zoom Meeting">M</a></span></td>
-            <td>
             <td>
             <span class="text-muted">
             <mark><i>

@@ -17,7 +17,7 @@ This page reports the contents of the Joint Industrial Session at BOPL 2020, tak
 
 TBA
 
-### Presenter
+### Corrado Iorizzo, Philip Morris International
 
 TBA
 
