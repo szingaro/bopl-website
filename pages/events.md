@@ -112,31 +112,31 @@ above &mdash; Bologna time (Italy, UTC+2).
     <tbody>
         <tr>
             <th scope="row" class="small">10:30&ndash;11:00</th>
-            <td class="text-info"><strong>Opening<br /><a class="small" href="https://us02web.zoom.us/j/81221846281?pwd=ZVBKTlhzZkZXOXRaZjA3dU9zY0NYZz09">Join Zoom Meeting</a></strong></td>
-            <td class="text-info"><strong>Opening<br /><a class="small" href="https://us02web.zoom.us/j/86542328968?pwd=U0k0M2hLUGJHME1BcjlLdCsza2ljdz09">Join Zoom Meeting</a></strong></td>
-            <td class="text-normal"><span class="microservices"><a href="https://us02web.zoom.us/j/86014911483?pwd=WW1UWFRPaWF3VVc2c0RRdHBFam1Gdz09" title="Join Zoom Meeting">M</a></span></td>
+            <td class="text-info"><strong>Opening<br /><a class="small" href="https://us02web.zoom.us/j/81221846281">Join Zoom Meeting</a></strong></td>
+            <td class="text-info"><strong>Opening<br /><a class="small" href="https://us02web.zoom.us/j/86542328968">Join Zoom Meeting</a></strong></td>
+            <td class="text-normal"><span class="microservices"><a href="https://us02web.zoom.us/j/86014911483" title="Join Zoom Meeting">M</a></span></td>
             <td></td>
         </tr>
         <tr>
             <th scope="row" class="small">11:00&ndash;11:30</th>
-            <td class="text-normal"><span class="lopstr"><a href="https://us02web.zoom.us/j/84882509637?pwd=d0VJeS9vR0dpc0FxZTZDUDgzcTlkdz09" title="Join Zoom Meeting">L</a></span> <span class="wflp"><a href="https://us02web.zoom.us/j/83049802627?pwd=ZVpIOXpKaVRoQjQ0NDd0bkxWUDFBZz09" title="Join Zoom Meeting">W</a></span></td>
-            <td class="text-normal"><span class="lopstr"><a href="https://us02web.zoom.us/j/85366847417?pwd=dGN4RW12aDgvOHZjMzBTQlQrUGhEdz09" title="Join Zoom Meeting">L</a></span> <span class="ppdp"><a href="https://us02web.zoom.us/j/86767609272?pwd=VG4wL3VFQ2phdnphUGRiaHhEbWVEdz09" title="Join Zoom Meeting">P</a></span> <span class="microservices"><a href="https://us02web.zoom.us/j/89239568074?pwd=N1B0RWJCMmJaQnlWRkhpSWhYbktiQT09" title="Join Zoom Meeting">M</a></span></td>
-            <td class="text-normal"><span class="lopstr"><a href="https://us02web.zoom.us/j/83482470471?pwd=Y1NRVXdoSVVvcjYxRjV6K0NKYUlWQT09" title="Join Zoom Meeting">L</a></span> <span class="ppdp"><a href="https://us02web.zoom.us/j/81399935888?pwd=K01uaFQ5WWI1MHdSNUhkVjJhZWorUT09" title="Join Zoom Meeting">P</a></span> <span class="microservices"><a href="https://us02web.zoom.us/j/86014911483?pwd=WW1UWFRPaWF3VVc2c0RRdHBFam1Gdz09" title="Join Zoom Meeting">M</a></span></td>
-            <td class="text-normal"><span class="ppdp"><a href="https://us02web.zoom.us/j/88941123167?pwd=dDBnRS8vZVhtNkJ2aXB5MXdMNHhXZz09" title="Join Zoom Meeting">P</a></span> <span class="microservices"><a href="https://us02web.zoom.us/j/85692687858?pwd=bDljemJ4aEZJYnJZRlVCTy8xd29PUT09" title="Join Zoom Meeting">M</a></span></td>
+            <td class="text-normal"><span class="lopstr"><a href="https://us02web.zoom.us/j/84882509637" title="Join Zoom Meeting">L</a></span> <span class="wflp"><a href="https://us02web.zoom.us/j/83049802627" title="Join Zoom Meeting">W</a></span></td>
+            <td class="text-normal"><span class="lopstr"><a href="https://us02web.zoom.us/j/85366847417" title="Join Zoom Meeting">L</a></span> <span class="ppdp"><a href="https://us02web.zoom.us/j/86767609272" title="Join Zoom Meeting">P</a></span> <span class="microservices"><a href="https://us02web.zoom.us/j/89239568074" title="Join Zoom Meeting">M</a></span></td>
+            <td class="text-normal"><span class="lopstr"><a href="https://us02web.zoom.us/j/83482470471" title="Join Zoom Meeting">L</a></span> <span class="ppdp"><a href="https://us02web.zoom.us/j/81399935888" title="Join Zoom Meeting">P</a></span> <span class="microservices"><a href="https://us02web.zoom.us/j/86014911483" title="Join Zoom Meeting">M</a></span></td>
+            <td class="text-normal"><span class="ppdp"><a href="https://us02web.zoom.us/j/88941123167" title="Join Zoom Meeting">P</a></span> <span class="microservices"><a href="https://us02web.zoom.us/j/85692687858" title="Join Zoom Meeting">M</a></span></td>
         </tr>
         <tr>
             <th scope="row" class="small">11:30&ndash;12:00</th>
-            <td class="text-normal"><span class="lopstr"><a href="https://us02web.zoom.us/j/84882509637?pwd=d0VJeS9vR0dpc0FxZTZDUDgzcTlkdz09" title="Join Zoom Meeting">L</a></span> <span class="wflp"><a href="https://us02web.zoom.us/j/83049802627?pwd=ZVpIOXpKaVRoQjQ0NDd0bkxWUDFBZz09" title="Join Zoom Meeting">W</a></span></td>
-            <td class="text-normal"><span class="lopstr"><a href="https://us02web.zoom.us/j/85366847417?pwd=dGN4RW12aDgvOHZjMzBTQlQrUGhEdz09" title="Join Zoom Meeting">L</a></span> <span class="ppdp"><a href="https://us02web.zoom.us/j/86767609272?pwd=VG4wL3VFQ2phdnphUGRiaHhEbWVEdz09" title="Join Zoom Meeting">P</a></span> <span class="microservices"><a href="https://us02web.zoom.us/j/89239568074?pwd=N1B0RWJCMmJaQnlWRkhpSWhYbktiQT09" title="Join Zoom Meeting">M</a></span></td>
-            <td class="text-normal"><span class="lopstr"><a href="https://us02web.zoom.us/j/83482470471?pwd=Y1NRVXdoSVVvcjYxRjV6K0NKYUlWQT09" title="Join Zoom Meeting">L</a></span> <span class="ppdp"><a href="https://us02web.zoom.us/j/81399935888?pwd=K01uaFQ5WWI1MHdSNUhkVjJhZWorUT09" title="Join Zoom Meeting">P</a></span> <span class="microservices"><a href="https://us02web.zoom.us/j/86014911483?pwd=WW1UWFRPaWF3VVc2c0RRdHBFam1Gdz09" title="Join Zoom Meeting">M</a></span></td>
-            <td class="text-normal"><span class="ppdp"><a href="https://us02web.zoom.us/j/88941123167?pwd=dDBnRS8vZVhtNkJ2aXB5MXdMNHhXZz09" title="Join Zoom Meeting">P</a></span> <span class="microservices"><a href="https://us02web.zoom.us/j/85692687858?pwd=bDljemJ4aEZJYnJZRlVCTy8xd29PUT09" title="Join Zoom Meeting">M</a></span></td>
+            <td class="text-normal"><span class="lopstr"><a href="https://us02web.zoom.us/j/84882509637" title="Join Zoom Meeting">L</a></span> <span class="wflp"><a href="https://us02web.zoom.us/j/83049802627" title="Join Zoom Meeting">W</a></span></td>
+            <td class="text-normal"><span class="lopstr"><a href="https://us02web.zoom.us/j/85366847417" title="Join Zoom Meeting">L</a></span> <span class="ppdp"><a href="https://us02web.zoom.us/j/86767609272" title="Join Zoom Meeting">P</a></span> <span class="microservices"><a href="https://us02web.zoom.us/j/89239568074" title="Join Zoom Meeting">M</a></span></td>
+            <td class="text-normal"><span class="lopstr"><a href="https://us02web.zoom.us/j/83482470471" title="Join Zoom Meeting">L</a></span> <span class="ppdp"><a href="https://us02web.zoom.us/j/81399935888" title="Join Zoom Meeting">P</a></span> <span class="microservices"><a href="https://us02web.zoom.us/j/86014911483" title="Join Zoom Meeting">M</a></span></td>
+            <td class="text-normal"><span class="ppdp"><a href="https://us02web.zoom.us/j/88941123167" title="Join Zoom Meeting">P</a></span> <span class="microservices"><a href="https://us02web.zoom.us/j/85692687858" title="Join Zoom Meeting">M</a></span></td>
         </tr>
         <tr>
             <th scope="row" class="small">12:00&ndash;12:30</th>
-            <td class="text-normal"><span class="lopstr"><a href="https://us02web.zoom.us/j/84882509637?pwd=d0VJeS9vR0dpc0FxZTZDUDgzcTlkdz09" title="Join Zoom Meeting">L</a></span> <span class="wflp"><a href="https://us02web.zoom.us/j/83049802627?pwd=ZVpIOXpKaVRoQjQ0NDd0bkxWUDFBZz09" title="Join Zoom Meeting">W</a></span></td>
-            <td class="text-normal"><span class="lopstr"><a href="https://us02web.zoom.us/j/85366847417?pwd=dGN4RW12aDgvOHZjMzBTQlQrUGhEdz09" title="Join Zoom Meeting">L</a></span> <span class="ppdp"><a href="https://us02web.zoom.us/j/86767609272?pwd=VG4wL3VFQ2phdnphUGRiaHhEbWVEdz09" title="Join Zoom Meeting">P</a></span> <span class="microservices"><a href="https://us02web.zoom.us/j/89239568074?pwd=N1B0RWJCMmJaQnlWRkhpSWhYbktiQT09" title="Join Zoom Meeting">M</a></span></td>
-            <td class="text-normal"><span class="lopstr"><a href="https://us02web.zoom.us/j/83482470471?pwd=Y1NRVXdoSVVvcjYxRjV6K0NKYUlWQT09" title="Join Zoom Meeting">L</a></span> <span class="ppdp"><a href="https://us02web.zoom.us/j/81399935888?pwd=K01uaFQ5WWI1MHdSNUhkVjJhZWorUT09" title="Join Zoom Meeting">P</a></span> <span class="microservices"><a href="https://us02web.zoom.us/j/86014911483?pwd=WW1UWFRPaWF3VVc2c0RRdHBFam1Gdz09" title="Join Zoom Meeting">M</a></span></td>
-            <td class="text-normal"><span class="ppdp"><a href="https://us02web.zoom.us/j/88941123167?pwd=dDBnRS8vZVhtNkJ2aXB5MXdMNHhXZz09" title="Join Zoom Meeting">P</a></span> <span class="microservices"><a href="https://us02web.zoom.us/j/85692687858?pwd=bDljemJ4aEZJYnJZRlVCTy8xd29PUT09" title="Join Zoom Meeting">M</a></span></td>
+            <td class="text-normal"><span class="lopstr"><a href="https://us02web.zoom.us/j/84882509637" title="Join Zoom Meeting">L</a></span> <span class="wflp"><a href="https://us02web.zoom.us/j/83049802627" title="Join Zoom Meeting">W</a></span></td>
+            <td class="text-normal"><span class="lopstr"><a href="https://us02web.zoom.us/j/85366847417" title="Join Zoom Meeting">L</a></span> <span class="ppdp"><a href="https://us02web.zoom.us/j/86767609272" title="Join Zoom Meeting">P</a></span> <span class="microservices"><a href="https://us02web.zoom.us/j/89239568074" title="Join Zoom Meeting">M</a></span></td>
+            <td class="text-normal"><span class="lopstr"><a href="https://us02web.zoom.us/j/83482470471" title="Join Zoom Meeting">L</a></span> <span class="ppdp"><a href="https://us02web.zoom.us/j/81399935888" title="Join Zoom Meeting">P</a></span> <span class="microservices"><a href="https://us02web.zoom.us/j/86014911483" title="Join Zoom Meeting">M</a></span></td>
+            <td class="text-normal"><span class="ppdp"><a href="https://us02web.zoom.us/j/88941123167" title="Join Zoom Meeting">P</a></span> <span class="microservices"><a href="https://us02web.zoom.us/j/85692687858" title="Join Zoom Meeting">M</a></span></td>
         </tr>
         <tr>
             <th scope="row" class="small">12:30&ndash;13:00</th>
@@ -154,24 +154,24 @@ above &mdash; Bologna time (Italy, UTC+2).
         </tr>
         <tr>
             <th scope="row" class="small">13:30&ndash;14:00</th>
-            <td class="text-normal"><span class="wflp"><a href="https://us02web.zoom.us/j/83049802627?pwd=ZVpIOXpKaVRoQjQ0NDd0bkxWUDFBZz09" title="Join Zoom Meeting">W</a></span></td>
-            <td class="text-normal"><span class="ppdp"><a href="https://us02web.zoom.us/j/86767609272?pwd=VG4wL3VFQ2phdnphUGRiaHhEbWVEdz09" title="Join Zoom Meeting">P</a></span> <span class="microservices"><a href="https://us02web.zoom.us/j/89239568074?pwd=N1B0RWJCMmJaQnlWRkhpSWhYbktiQT09" title="Join Zoom Meeting">M</a></span></td>
-            <td class="text-normal"><span class="microservices"><a href="https://us02web.zoom.us/j/86014911483?pwd=WW1UWFRPaWF3VVc2c0RRdHBFam1Gdz09" title="Join Zoom Meeting">M</a></span></td>
-            <td class="text-normal"><span class="microservices"><a href="https://us02web.zoom.us/j/85692687858?pwd=bDljemJ4aEZJYnJZRlVCTy8xd29PUT09" title="Join Zoom Meeting">M</a></span></td>
+            <td class="text-normal"><span class="wflp"><a href="https://us02web.zoom.us/j/83049802627" title="Join Zoom Meeting">W</a></span></td>
+            <td class="text-normal"><span class="ppdp"><a href="https://us02web.zoom.us/j/86767609272" title="Join Zoom Meeting">P</a></span> <span class="microservices"><a href="https://us02web.zoom.us/j/89239568074" title="Join Zoom Meeting">M</a></span></td>
+            <td class="text-normal"><span class="microservices"><a href="https://us02web.zoom.us/j/86014911483" title="Join Zoom Meeting">M</a></span></td>
+            <td class="text-normal"><span class="microservices"><a href="https://us02web.zoom.us/j/85692687858" title="Join Zoom Meeting">M</a></span></td>
         </tr>
         <tr>
             <th scope="row" class="small">14:00&ndash;14:30</th>
-            <td class="text-normal"><span class="lopstr"><a href="https://us02web.zoom.us/j/84882509637?pwd=d0VJeS9vR0dpc0FxZTZDUDgzcTlkdz09" title="Join Zoom Meeting">L</a></span> <span class="wflp"><a href="https://us02web.zoom.us/j/83049802627?pwd=ZVpIOXpKaVRoQjQ0NDd0bkxWUDFBZz09" title="Join Zoom Meeting">W</a></span></td>
-            <td class="text-normal"><span class="lopstr"><a href="https://us02web.zoom.us/j/85366847417?pwd=dGN4RW12aDgvOHZjMzBTQlQrUGhEdz09" title="Join Zoom Meeting">L</a></span> <span class="ppdp"><a href="https://us02web.zoom.us/j/86767609272?pwd=VG4wL3VFQ2phdnphUGRiaHhEbWVEdz09" title="Join Zoom Meeting">P</a></span> <span class="microservices"><a href="https://us02web.zoom.us/j/89239568074?pwd=N1B0RWJCMmJaQnlWRkhpSWhYbktiQT09" title="Join Zoom Meeting">M</a></span></td>
-            <td class="text-normal"><span class="lopstr"><a href="https://us02web.zoom.us/j/83482470471?pwd=Y1NRVXdoSVVvcjYxRjV6K0NKYUlWQT09" title="Join Zoom Meeting">L</a></span> <span class="ppdp"><a href="https://us02web.zoom.us/j/81399935888?pwd=K01uaFQ5WWI1MHdSNUhkVjJhZWorUT09" title="Join Zoom Meeting">P</a></span> <span class="microservices"><a href="https://us02web.zoom.us/j/86014911483?pwd=WW1UWFRPaWF3VVc2c0RRdHBFam1Gdz09" title="Join Zoom Meeting">M</a></span></td>
-            <td class="text-normal"><span class="ppdp"><a href="https://us02web.zoom.us/j/88941123167?pwd=dDBnRS8vZVhtNkJ2aXB5MXdMNHhXZz09" title="Join Zoom Meeting">P</a></span> <span class="microservices"><a href="https://us02web.zoom.us/j/85692687858?pwd=bDljemJ4aEZJYnJZRlVCTy8xd29PUT09" title="Join Zoom Meeting">M</a></span></td>
+            <td class="text-normal"><span class="lopstr"><a href="https://us02web.zoom.us/j/84882509637" title="Join Zoom Meeting">L</a></span> <span class="wflp"><a href="https://us02web.zoom.us/j/83049802627" title="Join Zoom Meeting">W</a></span></td>
+            <td class="text-normal"><span class="lopstr"><a href="https://us02web.zoom.us/j/85366847417" title="Join Zoom Meeting">L</a></span> <span class="ppdp"><a href="https://us02web.zoom.us/j/86767609272" title="Join Zoom Meeting">P</a></span> <span class="microservices"><a href="https://us02web.zoom.us/j/89239568074" title="Join Zoom Meeting">M</a></span></td>
+            <td class="text-normal"><span class="lopstr"><a href="https://us02web.zoom.us/j/83482470471" title="Join Zoom Meeting">L</a></span> <span class="ppdp"><a href="https://us02web.zoom.us/j/81399935888" title="Join Zoom Meeting">P</a></span> <span class="microservices"><a href="https://us02web.zoom.us/j/86014911483" title="Join Zoom Meeting">M</a></span></td>
+            <td class="text-normal"><span class="ppdp"><a href="https://us02web.zoom.us/j/88941123167" title="Join Zoom Meeting">P</a></span> <span class="microservices"><a href="https://us02web.zoom.us/j/85692687858" title="Join Zoom Meeting">M</a></span></td>
         </tr>
         <tr>
             <th scope="row" class="small">14:30&ndash;15:00</th>
-            <td class="text-normal"><span class="lopstr"><a href="https://us02web.zoom.us/j/84882509637?pwd=d0VJeS9vR0dpc0FxZTZDUDgzcTlkdz09" title="Join Zoom Meeting">L</a></span> <span class="wflp"><a href="https://us02web.zoom.us/j/83049802627?pwd=ZVpIOXpKaVRoQjQ0NDd0bkxWUDFBZz09" title="Join Zoom Meeting">W</a></span></td>
-            <td class="text-normal"><span class="lopstr"><a href="https://us02web.zoom.us/j/85366847417?pwd=dGN4RW12aDgvOHZjMzBTQlQrUGhEdz09" title="Join Zoom Meeting">L</a></span> <span class="ppdp"><a href="https://us02web.zoom.us/j/86767609272?pwd=VG4wL3VFQ2phdnphUGRiaHhEbWVEdz09" title="Join Zoom Meeting">P</a></span> <span class="microservices"><a href="https://us02web.zoom.us/j/89239568074?pwd=N1B0RWJCMmJaQnlWRkhpSWhYbktiQT09" title="Join Zoom Meeting">M</a></span></td>
-            <td class="text-normal"><span class="lopstr"><a href="https://us02web.zoom.us/j/83482470471?pwd=Y1NRVXdoSVVvcjYxRjV6K0NKYUlWQT09" title="Join Zoom Meeting">L</a></span> <span class="ppdp"><a href="https://us02web.zoom.us/j/81399935888?pwd=K01uaFQ5WWI1MHdSNUhkVjJhZWorUT09" title="Join Zoom Meeting">P</a></span> <span class="microservices"><a href="https://us02web.zoom.us/j/86014911483?pwd=WW1UWFRPaWF3VVc2c0RRdHBFam1Gdz09" title="Join Zoom Meeting">M</a></span></td>
-            <td class="text-normal"><span class="ppdp"><a href="https://us02web.zoom.us/j/88941123167?pwd=dDBnRS8vZVhtNkJ2aXB5MXdMNHhXZz09" title="Join Zoom Meeting">P</a></span> <span class="microservices"><a href="https://us02web.zoom.us/j/85692687858?pwd=bDljemJ4aEZJYnJZRlVCTy8xd29PUT09" title="Join Zoom Meeting">M</a></span></td>
+            <td class="text-normal"><span class="lopstr"><a href="https://us02web.zoom.us/j/84882509637" title="Join Zoom Meeting">L</a></span> <span class="wflp"><a href="https://us02web.zoom.us/j/83049802627" title="Join Zoom Meeting">W</a></span></td>
+            <td class="text-normal"><span class="lopstr"><a href="https://us02web.zoom.us/j/85366847417" title="Join Zoom Meeting">L</a></span> <span class="ppdp"><a href="https://us02web.zoom.us/j/86767609272" title="Join Zoom Meeting">P</a></span> <span class="microservices"><a href="https://us02web.zoom.us/j/89239568074" title="Join Zoom Meeting">M</a></span></td>
+            <td class="text-normal"><span class="lopstr"><a href="https://us02web.zoom.us/j/83482470471" title="Join Zoom Meeting">L</a></span> <span class="ppdp"><a href="https://us02web.zoom.us/j/81399935888" title="Join Zoom Meeting">P</a></span> <span class="microservices"><a href="https://us02web.zoom.us/j/86014911483" title="Join Zoom Meeting">M</a></span></td>
+            <td class="text-normal"><span class="ppdp"><a href="https://us02web.zoom.us/j/88941123167" title="Join Zoom Meeting">P</a></span> <span class="microservices"><a href="https://us02web.zoom.us/j/85692687858" title="Join Zoom Meeting">M</a></span></td>
         </tr>
         <tr>
             <th scope="row" class="small">15:00&ndash;15:30</th>
@@ -182,29 +182,29 @@ above &mdash; Bologna time (Italy, UTC+2).
         </tr>
         <tr>
             <th scope="row" class="small">15:30&ndash;16:00</th>
-            <td class="text-normal"><span class="lopstr"><a href="https://us02web.zoom.us/j/84882509637?pwd=d0VJeS9vR0dpc0FxZTZDUDgzcTlkdz09" title="Join Zoom Meeting">L</a></span> <span class="wflp"><a href="https://us02web.zoom.us/j/83049802627?pwd=ZVpIOXpKaVRoQjQ0NDd0bkxWUDFBZz09" title="Join Zoom Meeting">W</a></span></td>
-            <td><span class="text-muted"><mark><i>Plenary talk of Prof. José Meseguer</i></mark> &mdash; Symbolic Computation in Maude: Some Tapas</span><br /><a class="small" href="https://us02web.zoom.us/j/87520565562?pwd=dVZsTDdsVG16NkJZUi9JeUFRTlk1Zz09">Join Zoom Meeting</a></td>
-            <td class="text-normal"><span class="lopstr"><a href="https://us02web.zoom.us/j/83482470471?pwd=Y1NRVXdoSVVvcjYxRjV6K0NKYUlWQT09" title="Join Zoom Meeting">L</a></span> <span class="ppdp"><a href="https://us02web.zoom.us/j/81399935888?pwd=K01uaFQ5WWI1MHdSNUhkVjJhZWorUT09" title="Join Zoom Meeting">P</a></span> <span class="microservices"><a href="https://us02web.zoom.us/j/86014911483?pwd=WW1UWFRPaWF3VVc2c0RRdHBFam1Gdz09" title="Join Zoom Meeting">M</a></span></td>
-            <td class="text-normal"><span class="ppdp"><a href="https://us02web.zoom.us/j/88941123167?pwd=dDBnRS8vZVhtNkJ2aXB5MXdMNHhXZz09" title="Join Zoom Meeting">P</a></span> <span class="microservices"><a href="https://us02web.zoom.us/j/85692687858?pwd=bDljemJ4aEZJYnJZRlVCTy8xd29PUT09" title="Join Zoom Meeting">M</a></span></td>
+            <td class="text-normal"><span class="lopstr"><a href="https://us02web.zoom.us/j/84882509637" title="Join Zoom Meeting">L</a></span> <span class="wflp"><a href="https://us02web.zoom.us/j/83049802627" title="Join Zoom Meeting">W</a></span></td>
+            <td><span class="text-muted"><mark><i>Plenary talk of Prof. José Meseguer</i></mark> &mdash; Symbolic Computation in Maude: Some Tapas</span><br /><a class="small" href="https://us02web.zoom.us/j/87520565562">Join Zoom Meeting</a></td>
+            <td class="text-normal"><span class="lopstr"><a href="https://us02web.zoom.us/j/83482470471" title="Join Zoom Meeting">L</a></span> <span class="ppdp"><a href="https://us02web.zoom.us/j/81399935888" title="Join Zoom Meeting">P</a></span> <span class="microservices"><a href="https://us02web.zoom.us/j/86014911483" title="Join Zoom Meeting">M</a></span></td>
+            <td class="text-normal"><span class="ppdp"><a href="https://us02web.zoom.us/j/88941123167" title="Join Zoom Meeting">P</a></span> <span class="microservices"><a href="https://us02web.zoom.us/j/85692687858" title="Join Zoom Meeting">M</a></span></td>
         </tr>
         <tr>
             <th scope="row" class="small">16:00&ndash;16:30</th>
-            <td class="text-normal"><span class="lopstr"><a href="https://us02web.zoom.us/j/84882509637?pwd=d0VJeS9vR0dpc0FxZTZDUDgzcTlkdz09" title="Join Zoom Meeting">L</a></span> <span class="wflp"><a href="https://us02web.zoom.us/j/83049802627?pwd=ZVpIOXpKaVRoQjQ0NDd0bkxWUDFBZz09" title="Join Zoom Meeting">W</a></span></td>
-            <td><span class="text-muted"><mark><i>Plenary talk of Prof. José Meseguer</i></mark> &mdash; Symbolic Computation in Maude: Some Tapas</span><br /><a class="small" href="https://us02web.zoom.us/j/87520565562?pwd=dVZsTDdsVG16NkJZUi9JeUFRTlk1Zz09">Join Zoom Meeting</a></td>
-            <td class="text-normal"><span class="lopstr"><a href="https://us02web.zoom.us/j/83482470471?pwd=Y1NRVXdoSVVvcjYxRjV6K0NKYUlWQT09" title="Join Zoom Meeting">L</a></span> <span class="ppdp"><a href="https://us02web.zoom.us/j/81399935888?pwd=K01uaFQ5WWI1MHdSNUhkVjJhZWorUT09" title="Join Zoom Meeting">P</a></span> <span class="microservices"><a href="https://us02web.zoom.us/j/86014911483?pwd=WW1UWFRPaWF3VVc2c0RRdHBFam1Gdz09" title="Join Zoom Meeting">M</a></span></td>
-            <td class="text-normal"><span class="ppdp"><a href="https://us02web.zoom.us/j/88941123167?pwd=dDBnRS8vZVhtNkJ2aXB5MXdMNHhXZz09" title="Join Zoom Meeting">P</a></span> <span class="microservices"><a href="https://us02web.zoom.us/j/85692687858?pwd=bDljemJ4aEZJYnJZRlVCTy8xd29PUT09" title="Join Zoom Meeting">M</a></span></td>
+            <td class="text-normal"><span class="lopstr"><a href="https://us02web.zoom.us/j/84882509637" title="Join Zoom Meeting">L</a></span> <span class="wflp"><a href="https://us02web.zoom.us/j/83049802627" title="Join Zoom Meeting">W</a></span></td>
+            <td><span class="text-muted"><mark><i>Plenary talk of Prof. José Meseguer</i></mark> &mdash; Symbolic Computation in Maude: Some Tapas</span><br /><a class="small" href="https://us02web.zoom.us/j/87520565562">Join Zoom Meeting</a></td>
+            <td class="text-normal"><span class="lopstr"><a href="https://us02web.zoom.us/j/83482470471" title="Join Zoom Meeting">L</a></span> <span class="ppdp"><a href="https://us02web.zoom.us/j/81399935888" title="Join Zoom Meeting">P</a></span> <span class="microservices"><a href="https://us02web.zoom.us/j/86014911483" title="Join Zoom Meeting">M</a></span></td>
+            <td class="text-normal"><span class="ppdp"><a href="https://us02web.zoom.us/j/88941123167" title="Join Zoom Meeting">P</a></span> <span class="microservices"><a href="https://us02web.zoom.us/j/85692687858" title="Join Zoom Meeting">M</a></span></td>
         </tr>
         <tr>
             <th scope="row" class="small">16:30&ndash;17:00</th>
             <td class="text-muted"><i class="fas fa-mug-hot"></i> Tea break</td>
             <td class="text-muted"><i class="fas fa-mug-hot"></i> Tea break</td>
             <td class="text-muted"><i class="fas fa-mug-hot"></i> Tea break</td>
-            <td class="text-info"><strong>Closing</strong><br /><a class="small" href="https://us02web.zoom.us/j/84826681922?pwd=N2RVc2JJU0RiTnNBTW5ldmJpODZtQT09">Join Zoom Meeting</a></td>
+            <td class="text-info"><strong>Closing</strong><br /><a class="small" href="https://us02web.zoom.us/j/84826681922">Join Zoom Meeting</a></td>
         </tr>
         <tr>
             <th scope="row" class="small">17:00&ndash;17:30</th>
-            <td class="text-normal"><span class="lopstr"><a href="https://us02web.zoom.us/j/84882509637?pwd=d0VJeS9vR0dpc0FxZTZDUDgzcTlkdz09" title="Join Zoom Meeting">L</a></span> <span class="wflp"><a href="https://us02web.zoom.us/j/83049802627?pwd=ZVpIOXpKaVRoQjQ0NDd0bkxWUDFBZz09" title="Join Zoom Meeting">W</a></span></td>
-            <td class="text-normal"><span class="microservices"><a href="https://us02web.zoom.us/j/89239568074?pwd=N1B0RWJCMmJaQnlWRkhpSWhYbktiQT09" title="Join Zoom Meeting">M</a></span></td>
+            <td class="text-normal"><span class="lopstr"><a href="https://us02web.zoom.us/j/84882509637" title="Join Zoom Meeting">L</a></span> <span class="wflp"><a href="https://us02web.zoom.us/j/83049802627" title="Join Zoom Meeting">W</a></span></td>
+            <td class="text-normal"><span class="microservices"><a href="https://us02web.zoom.us/j/89239568074" title="Join Zoom Meeting">M</a></span></td>
             <td>
             <span class="text-muted">
             <mark><i>
@@ -217,7 +217,7 @@ above &mdash; Bologna time (Italy, UTC+2).
             Talk by Corrado Iorizzo, Philip Morris International
             </a>
             <br />
-            <a href="https://us02web.zoom.us/j/81483955846?pwd=d1NYZHZNUngvbHN2OGFDaE5wZWxZUT09">Join Zoom Meeting</a>
+            <a href="https://us02web.zoom.us/j/81483955846">Join Zoom Meeting</a>
             </small>
             </span>
             </td>
@@ -225,8 +225,8 @@ above &mdash; Bologna time (Italy, UTC+2).
         </tr>
         <tr>
             <th scope="row" class="small">17:30&ndash;18:00</th>
-            <td class="text-normal"><span class="lopstr"><a href="https://us02web.zoom.us/j/84882509637?pwd=d0VJeS9vR0dpc0FxZTZDUDgzcTlkdz09" title="Join Zoom Meeting">L</a></span> <span class="wflp"><a href="https://us02web.zoom.us/j/83049802627?pwd=ZVpIOXpKaVRoQjQ0NDd0bkxWUDFBZz09" title="Join Zoom Meeting">W</a></span></td>
-            <td class="text-normal"><span class="microservices"><a href="https://us02web.zoom.us/j/89239568074?pwd=N1B0RWJCMmJaQnlWRkhpSWhYbktiQT09" title="Join Zoom Meeting">M</a></span></td>
+            <td class="text-normal"><span class="lopstr"><a href="https://us02web.zoom.us/j/84882509637" title="Join Zoom Meeting">L</a></span> <span class="wflp"><a href="https://us02web.zoom.us/j/83049802627" title="Join Zoom Meeting">W</a></span></td>
+            <td class="text-normal"><span class="microservices"><a href="https://us02web.zoom.us/j/89239568074" title="Join Zoom Meeting">M</a></span></td>
             <td>
             <span class="text-muted">
             <mark><i>
@@ -239,7 +239,7 @@ above &mdash; Bologna time (Italy, UTC+2).
             Talk by Luca Paganelli, Injenia Srl
             </a>
             <br />
-            <a href="https://us02web.zoom.us/j/81483955846?pwd=d1NYZHZNUngvbHN2OGFDaE5wZWxZUT09">Join Zoom Meeting</a>
+            <a href="https://us02web.zoom.us/j/81483955846">Join Zoom Meeting</a>
             </small>
             </span>
             </td>
