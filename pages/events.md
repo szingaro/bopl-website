@@ -183,14 +183,19 @@ above &mdash; Bologna time (Italy, UTC+2).
         <tr>
             <th scope="row" class="small">15:30&ndash;16:00</th>
             <td class="text-normal"><span class="lopstr"><a href="https://us02web.zoom.us/j/84882509637" title="Join Zoom Meeting">L</a></span> <span class="wflp"><a href="https://us02web.zoom.us/j/83049802627" title="Join Zoom Meeting">W</a></span></td>
-            <td><span class="text-muted"><mark><i>Plenary talk of Prof. José Meseguer</i></mark> &mdash; Symbolic Computation in Maude: Some Tapas</span><br /><a class="small" href="https://us02web.zoom.us/j/87520565562">Join Zoom Meeting</a></td>
+            <td rowspan="2"><span class="text-muted">
+            <mark><i>Plenary talk of Prof. José Meseguer</i></mark> &mdash; 
+            Symbolic Computation in Maude: Some Tapas</span>
+            <br /><a class="small" href="https://us02web.zoom.us/j/87520565562?pwd=dVZsTDdsVG16NkJZUi9JeUFRTlk1Zz09">Join Zoom Meeting</a>
+            • <a class="small" href="/assets/docs/BOPL-keynote.pdf"><i class="fas fa-file-pdf"></i> Slides</a>
+            </td>
             <td class="text-normal"><span class="lopstr"><a href="https://us02web.zoom.us/j/83482470471" title="Join Zoom Meeting">L</a></span> <span class="ppdp"><a href="https://us02web.zoom.us/j/81399935888" title="Join Zoom Meeting">P</a></span> <span class="microservices"><a href="https://us02web.zoom.us/j/86014911483" title="Join Zoom Meeting">M</a></span></td>
             <td class="text-normal"><span class="ppdp"><a href="https://us02web.zoom.us/j/88941123167" title="Join Zoom Meeting">P</a></span> <span class="microservices"><a href="https://us02web.zoom.us/j/85692687858" title="Join Zoom Meeting">M</a></span></td>
         </tr>
         <tr>
             <th scope="row" class="small">16:00&ndash;16:30</th>
             <td class="text-normal"><span class="lopstr"><a href="https://us02web.zoom.us/j/84882509637" title="Join Zoom Meeting">L</a></span> <span class="wflp"><a href="https://us02web.zoom.us/j/83049802627" title="Join Zoom Meeting">W</a></span></td>
-            <td><span class="text-muted"><mark><i>Plenary talk of Prof. José Meseguer</i></mark> &mdash; Symbolic Computation in Maude: Some Tapas</span><br /><a class="small" href="https://us02web.zoom.us/j/87520565562">Join Zoom Meeting</a></td>
+            <!-- <td><span class="text-muted"><mark><i>Plenary talk of Prof. José Meseguer</i></mark> &mdash; Symbolic Computation in Maude: Some Tapas</span><br /><a class="small" href="https://us02web.zoom.us/j/87520565562">Join Zoom Meeting</a></td> -->
             <td class="text-normal"><span class="lopstr"><a href="https://us02web.zoom.us/j/83482470471" title="Join Zoom Meeting">L</a></span> <span class="ppdp"><a href="https://us02web.zoom.us/j/81399935888" title="Join Zoom Meeting">P</a></span> <span class="microservices"><a href="https://us02web.zoom.us/j/86014911483" title="Join Zoom Meeting">M</a></span></td>
             <td class="text-normal"><span class="ppdp"><a href="https://us02web.zoom.us/j/88941123167" title="Join Zoom Meeting">P</a></span> <span class="microservices"><a href="https://us02web.zoom.us/j/85692687858" title="Join Zoom Meeting">M</a></span></td>
         </tr>
